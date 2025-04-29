@@ -1,28 +1,80 @@
-![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmZ2VlrWllZQ.jpg)
-<h1 align="center">Hi 👋, I'm N Siddharth Reddy</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+```markdown
+# 🌌 N Siddharth Reddy - The AI Code Sorcerer ✨
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+![Header Banner](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmZ2VlrWllZQ.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile%20views&color=0e75b6&style=flat" alt="siddreddy07" /> </p>
+<div align="center">
+  <h1>👋 Welcome to My Cosmic Code Realm! 🚀</h1>
+  <p>I’m a web developer from India, blending code with AI to create jaw-dropping apps that light up the digital sky!</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=800&color=FF00FF&center=true&vCenter=true&width=500&lines=Code+is+my+spell,+AI+is+my+wand!;Crafting+smart+web+adventures!" alt="Typing Animation" />
+</div>
 
-- 🌱 I’m currently learning **Java Spring Boot**
+---
 
-- 💬 Ask me about **MERN**
+## 🌟 About Me
+- 💻 **Web-Coding Wizard** mastering the **MERN stack** (MongoDB, Express, React, Node.js).
+- 🌱 Diving deep into **AI and machine learning** to make apps super smart.
+- 😜 **Fun Fact**: My code comments are packed with jokes to keep the vibes high!
+- 📬 Reach me at: **siddharthreddy627@gmail.com** for epic collabs!
 
-- 📫 How to reach me **siddharthreddy627@gmail.com**
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding Wizard Gif" style="border-radius: 10px;"/>
+</div>
 
-- ⚡ Fun fact **I think I am Funny 😅**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="n-siddharth-reddy-957a1273" height="30" width="40" /></a>
-</p>
+## 🛠️ My Magic Toolkit
+These are the tools I use to weave my tech spells:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/></a>
+  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
+  <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="45" height="45"/></a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&show_icons=true&locale=en&layout=compact" alt="siddreddy07" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&locale=en" alt="siddreddy07" /></p>
+## 📈 My Code Journey
+See my coding stars shine on GitHub!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&show_icons=true&theme=midnight-purple&layout=compact&hide_border=true" alt="Top Languages" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+</div>
+
+---
+
+## 📱 Let’s Connect
+Ready to team up for some AI magic? Find me here!
+
+<div align="center">
+  <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:siddharthreddy627@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="40" />
+  </a>
+</div>
+
+---
+
+## 💡 My Code Motto
+> "Mix code with AI magic, and watch the web glow!"
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile%20Views&color=00ffcc&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+*Crafted with 💻, ✨, and a splash of ☕ by N Siddharth Reddy. Let’s make the web epic!*
+```
