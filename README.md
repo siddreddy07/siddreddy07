@@ -8,8 +8,7 @@
 <div align="center">
   <h2>🚀 Welcome to My Github Profile! ✨</h2>
   <p>I’m a web dev from India, blending AI and code to build apps that shine in the digital universe!</p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxwNzByNzI3aXluODF6dTVpbTM4cWhkcTlheGJ0MjYycWMya2Q3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" alt="Typing Animation" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=400&color=00FFDD&background=00000022&center=true&vCenter=true&width=600&lines=Code+is+my+vibe,+AI+is+my+fire!;Crafting+web+masterpieces!;Let’s+light+up+the+web!" alt="Typing Animation" /></div>
 
 ---
 
@@ -20,7 +19,7 @@
 - 📧 Reach me at: **siddharthreddy627@gmail.com** for epic collabs!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHvF2p5pridaS1i/giphy.gif" width="240" alt="Neon Coding Gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxwNzByNzI3aXluODF6dTVpbTM4cWhkcTlheGJ0MjYycWMya2Q3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" width="240" alt="Neon Coding Gif" />
 </div>
 
 ---
