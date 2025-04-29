@@ -4,7 +4,7 @@
 ![Neon Banner](https://images.hdqwalls.com/download/cyberpunk-neon-city-lights-1920x1080.jpg)
 
 <div align="center">
-  <h1>⚡️ Welcome to My Neon Code Universe! 🚀</h1>
+  <h1>⚡️ Welcome to My Github! 🚀</h1>
   <p>I’m a web dev from India, mixing AI and code to craft apps that light up the digital world!</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=400&color=FF00FF&background=00000022¢er=true&vCenter=true&width=600&lines=Code+is+my+pulse,+AI+is+my+spark!;Building+web+masterpieces!;Let’s+ignite+the+future!" alt="Typing Animation" />
 </div>
@@ -18,12 +18,12 @@
 - 📧 Hit me up at: **siddharthreddy627@gmail.com** for cool collabs!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHvF2p5pridaS1i/giphy.gif" width="240" alt="Neon Coding Gif" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxwNzByNzI3aXluODF6dTVpbTM4cWhkcTlheGJ0MjYycWMya2Q3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" width="240" alt="Coding Gif" />
 </div>
 
 ---
 
-## 🛠️ My Cyber Toolkit
+## 🛠️ My WEB Toolkit
 Tools I use to shape the web:
 
 <div align="center">
