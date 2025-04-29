@@ -4,7 +4,6 @@
   <img src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg" alt="Code Wizard" />
 </div>
 
-![Header Banner](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg)
 
 <div align="center">
   <h2>🚀 Welcome to My Cyber Code Realm! ✨</h2>
