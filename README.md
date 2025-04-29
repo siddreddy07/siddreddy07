@@ -8,7 +8,7 @@
 <div align="center">
   <h2>🚀 Welcome to My Github Profile! ✨</h2>
   <p>I’m a web dev from India, blending AI and code to build apps that shine in the digital universe!</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=400&color=00FFDD&background=00000022&center=true&vCenter=true&width=600&lines=Code+is+my+vibe,+AI+is+my+fire!;Crafting+web+masterpieces!;Let’s+light+up+the+web!" alt="Typing Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxwNzByNzI3aXluODF6dTVpbTM4cWhkcTlheGJ0MjYycWMya2Q3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" alt="Typing Animation" />
 </div>
 
 ---
@@ -81,7 +81,7 @@ Wanna team up for some neon projects? Find me here!
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile%20Views&color=00FFDD&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Neon%20Wizard-FF00FF?style=flat-square&logo=codepen" alt="Web Dev Wizard Badge" />
-  <img src="https://img.shields.io/badge/MERN%20Master-00FFDD?style=flat-square&logo=react" alt="MERN Master Badge" />
+  <img src="https://img.shields.io/badge/MERN%20Master-00FFDD?style=flat-square&logo=react" alt="MERN Stack Badge" />
   <img src="https://img.shields.io/badge/AI%20Guru-FFFF00?style=flat-square&logo=langchain" alt="AI Explorer Badge" />
   <img src="https://img.shields.io/badge/Web%20Rockstar-FF6666?style=flat-square&logo=javascript" alt="Web Rockstar Badge" />
 </div>
