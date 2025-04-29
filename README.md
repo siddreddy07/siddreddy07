@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🌟 N Siddharth Reddy 🌟</h1>
   <h3>⚡️ MERN Stack Developer ⚡️</h3>
-  <img src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg" height="200px" alt="Code Wizard" />
+  <img src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg" height="500px" width="full" alt="Code Wizard" />
 </div>
 
 
