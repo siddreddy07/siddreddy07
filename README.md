@@ -1,6 +1,6 @@
 # 🌠 N Siddharth Reddy - The Cosmic Code Alchemist 🌌
 
-![Header Banner]([https://images.pling.com/img/00/00/67/53/77/1986631/3d-space-wallpaper-1920x1080.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDFmdDRzODZqZ3JzbXZrMmo1OTdycHoyeTNscnAydWdkOWpwY3U4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvU21YOD0iISDGge16/giphy.gif))
+![Header Banner](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg)
 
 <div align="center">
   <h1>✨ Hey There, Welcome to My Stellar Code Universe! 🚀</h1>
