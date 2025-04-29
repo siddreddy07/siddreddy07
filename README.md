@@ -1,12 +1,12 @@
 <div align="center">
   <h1>🌟 N Siddharth Reddy 🌟</h1>
   <h3>⚡️ MERN Stack Developer ⚡️</h3>
-  <img src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg" alt="Code Wizard" />
+  <img src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg" height="200px" alt="Code Wizard" />
 </div>
 
 
 <div align="center">
-  <h2>🚀 Welcome to My Cyber Code Realm! ✨</h2>
+  <h2>🚀 Welcome to My Github Profile! ✨</h2>
   <p>I’m a web dev from India, blending AI and code to build apps that shine in the digital universe!</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=400&color=00FFDD&background=00000022&center=true&vCenter=true&width=600&lines=Code+is+my+vibe,+AI+is+my+fire!;Crafting+web+masterpieces!;Let’s+light+up+the+web!" alt="Typing Animation" />
 </div>
