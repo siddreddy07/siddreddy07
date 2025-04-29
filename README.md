@@ -1,29 +1,32 @@
-# N Siddharth Reddy
-## MERN Stack Developer
+<div align="center">
+  <h1>🌟 N Siddharth Reddy 🌟</h1>
+  <h3>⚡️ MERN Stack Developer ⚡️</h3>
+  <img src="https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg" alt="Code Wizard" />
+</div>
 
-![Neon Banner](https://images.hdqwalls.com/download/cyberpunk-neon-city-lights-1920x1080.jpg)
+![Header Banner](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg)
 
 <div align="center">
-  <h1>⚡️ Welcome to My Github! 🚀</h1>
-  <p>I’m a web dev from India, mixing AI and code to craft apps that light up the digital world!</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=400&color=FF00FF&background=00000022¢er=true&vCenter=true&width=600&lines=Code+is+my+pulse,+AI+is+my+spark!;Building+web+masterpieces!;Let’s+ignite+the+future!" alt="Typing Animation" />
+  <h2>🚀 Welcome to My Cyber Code Realm! ✨</h2>
+  <p>I’m a web dev from India, blending AI and code to build apps that shine in the digital universe!</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=400&color=00FFDD&background=00000022&center=true&vCenter=true&width=600&lines=Code+is+my+vibe,+AI+is+my+fire!;Crafting+web+masterpieces!;Let’s+light+up+the+web!" alt="Typing Animation" />
 </div>
 
 ---
 
-## 🌌 About This Code Wizard
-- 💻 **MERN Stack Pro** rocking MongoDB, Express, React, and Node.js.
-- 🌟 Learning **AI and machine learning** to make apps super smart.
-- 😎 **Fun Fact**: My code’s got jokes that’d make a bot laugh!
-- 📧 Hit me up at: **siddharthreddy627@gmail.com** for cool collabs!
+## 🌌 About This Neon Coder
+- 💻 **MERN Stack Pro** mastering MongoDB, Express, React, and Node.js.
+- 🌠 Learning **AI and machine learning** to make apps super smart.
+- 😎 **Fun Fact**: My code’s got jokes that’d make a bot LOL!
+- 📧 Reach me at: **siddharthreddy627@gmail.com** for epic collabs!
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxwNzByNzI3aXluODF6dTVpbTM4cWhkcTlheGJ0MjYycWMya2Q3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" width="240" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/26AHvF2p5pridaS1i/giphy.gif" width="240" alt="Neon Coding Gif" />
 </div>
 
 ---
 
-## 🛠️ My WEB Toolkit
+## 🛠️ My Cyber Toolkit
 Tools I use to shape the web:
 
 <div align="center">
@@ -36,7 +39,7 @@ Tools I use to shape the web:
       <td><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"场比赛</a></td>
+      <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a></td>
       <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a></td>
       <td><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a></td>
       <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
@@ -52,14 +55,14 @@ Tools I use to shape the web:
 Check my stats shining on GitHub!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&show_icons=true&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddreddy07&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=highcontrast&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&show_icons=true&theme=highcontrast&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddreddy07&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📡 Connect in the Cyber Void
+## 📡 Connect in the Neon Void
 Wanna team up for some neon projects? Find me here!
 
 <div align="center">
@@ -74,7 +77,7 @@ Wanna team up for some neon projects? Find me here!
 ---
 
 ## 💥 My Code Motto
-> "Code with AI, shine with neon, own the web!"
+> "Code with AI, glow with neon, rule the web!"
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile%20Views&color=00FFDD&style=flat" alt="Profile Views" />
