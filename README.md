@@ -14,8 +14,8 @@
 ---
 
 ## 🌌 About This Neon Coder
-- 💻 **MERN Stack Pro** mastering MongoDB, Express, React, and Node.js.
-- 🌠 Learning **AI and machine learning** to make apps super smart.
+- 💻 **MERN Stack Fresher**  MongoDB, Express, React, and Node.js.
+- 🌠 Learning **AI** to make apps super smart.
 - 😎 **Fun Fact**: My code’s got jokes that’d make a bot LOL!
 - 📧 Reach me at: **siddharthreddy627@gmail.com** for epic collabs!
 
@@ -80,9 +80,9 @@ Wanna team up for some neon projects? Find me here!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile%20Views&color=00FFDD&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Neon%20Wizard-FF00FF?style=flat-square&logo=codepen" alt="Neon Wizard Badge" />
+  <img src="https://img.shields.io/badge/Neon%20Wizard-FF00FF?style=flat-square&logo=codepen" alt="Web Dev Wizard Badge" />
   <img src="https://img.shields.io/badge/MERN%20Master-00FFDD?style=flat-square&logo=react" alt="MERN Master Badge" />
-  <img src="https://img.shields.io/badge/AI%20Guru-FFFF00?style=flat-square&logo=python" alt="AI Guru Badge" />
+  <img src="https://img.shields.io/badge/AI%20Guru-FFFF00?style=flat-square&logo=langchain" alt="AI Explorer Badge" />
   <img src="https://img.shields.io/badge/Web%20Rockstar-FF6666?style=flat-square&logo=javascript" alt="Web Rockstar Badge" />
 </div>
 
