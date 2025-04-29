@@ -1,5 +1,5 @@
 
-![Neon Banner](https://images.hdqwalls.com/download/neon-cityscape-cyberpunk-4k-3840x2160.jpg)
+![Neon Banner](https://images.hdqwalls.com/download/eat-sleep-code-repeat-er-3840x2400.jpg)
 
 <div align="center">
   <h1>🚀 Yo, Welcome to My Neon Code Galaxy! ✨</h1>
