@@ -60,8 +60,8 @@ Check my stats shining on GitHub!
 
 ---
 
-## 📡 Connect in the Neon Void
-Wanna team up for some neon projects? Find me here!
+## 📡 Connect With ME
+Wanna team up for some projects? Find me here!
 
 <div align="center">
   <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
