@@ -17,7 +17,8 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3500&pause=500&color=00E676¢er=true&vCenter=true&width=400&lines=Engineering+the+future;AI-powered+innovation;Seamless+systems,+bold+impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=500&color=00E676&center=true&vCenter=true&width=600&lines=Engineering+the+future.;AI-powered+CLI+and+MCP+systems.;Real+projects,+real+impact." alt="Typing animation banner" />
+
 
 </div>
 
