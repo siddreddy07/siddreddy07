@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **N Siddharth Reddy**, a **MERN stack developer** from India, crafting **scalable backends** and **AI-driven solutions** with a focus on precision and innovation. I build systems that are efficient, secure, and designed for impact.
+I'm **N Siddharth Reddy**, a **MERN stack developer** from India, crafting **scalable backends** and **AI-driven solutions** with precision and innovation. I build systems that are efficient, secure, and designed for impact.
 
 - 💻 **Expertise**: MERN stack, AI integrations, API design  
 - ⚙️ **Focus**: Secure systems, automation, real-time applications  
@@ -82,7 +82,10 @@ I'm **N Siddharth Reddy**, a **MERN stack developer** from India, crafting **sca
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=onedark&hide_border=true&bg_color=121212&title_color=00E676&text_color=BBDEFB" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&layout=compact&theme=onedark&hide_border=true&bg_color=121212&title_color=00E676&text_color=BBDEFB" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
