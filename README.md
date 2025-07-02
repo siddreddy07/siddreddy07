@@ -41,7 +41,7 @@ I'm **N Siddharth Reddy**, a **MERN stack developer** from India, crafting **sca
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **AI Chat Platform** | Real-time chat with OTP login and AI responses | Node.js, Express, MongoDB, Socket.io, Gemini API | [GitHub](https://github.com/siddreddy07/AI-Chat-App) |
-| **AI Email Assistant** | Chrome extension for Gmail summarization and task highlighting | JavaScript, OpenRouter APIs, DOM Parsing | [GitHub](https://github.com/siddreddy07/Ai-Email-Buddy) |
+| **AI Email Assistant Chrome Extension** | Chrome extension for Gmail summarization and task highlighting | JavaScript, OpenRouter APIs, DOM Parsing | [GitHub](https://github.com/siddreddy07/Ai-Email-Buddy) |
 | **MCP Server Twitter Post Agent** | CLI tool for AI-driven Twitter post creation and scheduling | Node.js, Twitter API, Child Process, AI APIs | [GitHub](https://github.com/siddreddy07/mcp-server-twitter-post) |
 | **Smart Voter System** | IoT-based voter verification with facial recognition | ESP32, Node.js, MySQL, Face Recognition | *Private* |
 
