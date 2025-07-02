@@ -3,7 +3,7 @@
 # N Siddharth Reddy  
 ### MERN Stack Developer | AI & Backend Innovator  
 
-<img src="https://c8.alamy.com/comp/2H2TFM9/backend-developer-text-written-on-programming-code-abstract-technology-background-of-software-developer-and-computer-script-backend-developer-concept-2H2TFM9.jpg" height="180px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" />
+<img src="https://c8.alamy.com/comp/2H2TFM9/backend-developer-text-written-on-programming-code-abstract-technology-background-of-software-developer-and-computer-script-backend-developer-concept-2H2TFM9.jpg" height="180px" width="200px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" />
 
 <p>
   <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
@@ -40,10 +40,10 @@ I'm **N Siddharth Reddy**, a **MERN stack developer** from India, crafting **sca
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **AI Chat Platform** | Real-time chat with OTP login and AI responses | Node.js, Express, MongoDB, Socket.io, Gemini API | [GitHub](https://github.com/siddreddy07/ai-chat-app) |
-| **AI Email Assistant** | Chrome extension for Gmail summarization and task highlighting | JavaScript, OpenRouter APIs, DOM Parsing | [GitHub](https://github.com/siddreddy07/ai-email-buddy) |
-| **MCP Server Twitter Post Agent** | CLI tool for AI-driven Twitter post creation and scheduling | Node.js, Twitter API, Child Process, AI APIs | *Private* |
-| **Smart Voter System** | IoT-based voter verification with facial recognition | ESP32, Node.js, MySQL, Face Recognition | [GitHub](https://github.com/siddreddy07/smart-voter-system) |
+| **AI Chat Platform** | Real-time chat with OTP login and AI responses | Node.js, Express, MongoDB, Socket.io, Gemini API | [GitHub](https://github.com/siddreddy07/AI-Chat-App) |
+| **AI Email Assistant** | Chrome extension for Gmail summarization and task highlighting | JavaScript, OpenRouter APIs, DOM Parsing | [GitHub](https://github.com/siddreddy07/Ai-Email-Buddy) |
+| **MCP Server Twitter Post Agent** | CLI tool for AI-driven Twitter post creation and scheduling | Node.js, Twitter API, Child Process, AI APIs | [GitHub](https://github.com/siddreddy07/mcp-server-twitter-post) |
+| **Smart Voter System** | IoT-based voter verification with facial recognition | ESP32, Node.js, MySQL, Face Recognition | *Private* |
 
 ---
 
