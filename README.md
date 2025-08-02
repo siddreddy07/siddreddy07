@@ -40,7 +40,7 @@ Hi, I'm **N Siddharth Reddy** — a **MERN stack developer** from India who enjo
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **AI Chat Platform** | Real-time chat with OTP login and AI responses | Node.js, Express, MongoDB, Socket.io, Gemini API | [GitHub](https://github.com/siddreddy07/AI-Chat-App) |
-| **Dbsmash** | Simple CLI to quickly set up Firestore, Supabase, or MongoDB projects with ready-to-edit configs | Node.js, Firestore, Supabase (Prisma), MongoDB Atlas | [GitHub](https://github.com/siddreddy07/dbsmash) |
+| **Dbsmash** | Simple CLI to quickly set up Firestore, Supabase, or MongoDB projects with ready-to-edit configs | Node.js, Firestore, Supabase (Prisma), MongoDB Atlas | [GitHub](https://github.com/siddreddy07/dbsmash-CLI-npm-package) |
 | **MCP Server Twitter Post Agent** | CLI tool for AI-driven Twitter post creation and scheduling | Node.js, Twitter API, Child Process, AI APIs | [GitHub](https://github.com/siddreddy07/mcp-server-twitter-post) |
 | **Smart Voter System** | IoT-based voter verification with facial recognition | ESP32, Node.js, MySQL, Face Recognition | *Private* |
 
