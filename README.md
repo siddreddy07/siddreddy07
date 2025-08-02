@@ -55,13 +55,6 @@ Hi, I'm **N Siddharth Reddy** — a **MERN stack developer** from India who enjo
 
 ---
 
-## 🌟 Current Focus
-
-- ⚙️ Building **CLI-based auto-documentation tools** for developer efficiency  
-- 🧠 Creating **AI-powered MCP server agents** for automated workflows  
-
----
-
 ## 💼 Experience & Certifications
 
 ### Experience
