@@ -3,7 +3,7 @@
 # N Siddharth Reddy  
 ### MERN Stack Developer | AI & Backend Innovator  
 
-<img src="https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg" height="280px" width="600px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" />
+<img src="https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg" height="280px" width="400px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" />
 
 <p>
   <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
