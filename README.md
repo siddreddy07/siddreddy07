@@ -23,16 +23,15 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-I'm **N Siddharth Reddy**, a **MERN stack developer** from India, crafting **scalable backends** and **AI-driven solutions** with precision and innovation. I build systems that are efficient, secure, and designed for impact.
+Hi, I'm **N Siddharth Reddy** — a **MERN stack developer** from India who enjoys building real-world projects and learning by doing. I focus on writing clean, functional code and exploring how AI can make development smarter and more practical.
 
-- 💻 **Expertise**: MERN stack, AI integrations, API design  
-- ⚙️ **Focus**: Secure systems, automation, real-time applications  
-- 🌱 **Currently Building**: AI-powered terminal agents, auto-documentation tools  
-- 📧 **Contact**: siddharthreddy627@gmail.com  
-- ✨ **Motto**: *Code with purpose, innovate with vision.*
+- 💻 **Tech I'm Learning and Using**: JavaScript (ES6+), Node.js, Express.js, React.js, MongoDB, MySQL  
+- 🛠️ **What I Like Building**: Web apps, backend APIs, small tools that automate tasks or solve developer problems  
+- 🤖 **Currently Exploring**: LangChain and TypeScript — building and understanding how AI agents work step by step  
+- 📧 **Contact**: [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)  
+- 🌱 **Why I Build**: I learn best by building things that feel useful — even small projects teach me how real systems work.
 
 ---
 
