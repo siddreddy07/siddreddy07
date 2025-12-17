@@ -4,7 +4,7 @@
 
 ### MERN Stack Developer · Backend-Focused · Applied AI
 
-<img src="[https://thumbs.dreamstime.com/b/abstract-green-tech-background-generative-design-elements-futuristic-data-streams-glowing-neon-lights-digital-circuits-387820891.jpg" alt="Tech Banner" width="100%" style="border-radius: 14px; box-shadow: 0 6px 24px rgba(0, 230, 118, 0.35);](https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg" height="280px" width="400px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;)" />
+<img src="https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg" height="280px" width="400px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" />
 
 <br/>
 
