@@ -2,25 +2,25 @@
 
 # N Siddharth Reddy
 
-### _MERN Stack Developer | AI & Backend Innovator_
+### MERN Stack Developer · Backend-Focused · Applied AI
 
-<img src="https://thumbs.dreamstime.com/b/abstract-green-tech-background-generative-design-elements-futuristic-data-streams-glowing-neon-lights-digital-circuits-387820891.jpg" alt="Futuristic Neon Green Tech Banner" width="100%" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0, 230, 118, 0.37); border: 1px solid #00E676;" />
+<img src="https://thumbs.dreamstime.com/b/abstract-green-tech-background-generative-design-elements-futuristic-data-streams-glowing-neon-lights-digital-circuits-387820891.jpg" alt="Tech Banner" width="100%" style="border-radius: 14px; box-shadow: 0 6px 24px rgba(0, 230, 118, 0.35);" />
 
 <br/>
 
 <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:siddharthreddy627@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/siddreddy07">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20@%20siddreddy07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-siddreddy07-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E676&center=true&vCenter=true&width=1000&lines=Engineering+the+future+with+code.;Crafting+AI-powered+CLI+%26+backend+systems.;Delivering+real-world+impact+through+innovation.;MERN+%7C+Node.js+%7C+AI+Integration+%7C+Full-Stack" alt="Dynamic Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E676&center=true&vCenter=true&width=900&lines=Backend-first+engineering.;Practical+AI+integrations.;Building+useful+systems+end+to+end." />
 
 </div>
 
@@ -28,90 +28,90 @@
 
 ## 👋 About Me
 
-Hey there! I'm **N Siddharth Reddy**, a passionate **full-stack MERN developer** based in India, with a deep focus on **backend architecture**, **scalable systems**, and **AI integrations**.
+I’m **N Siddharth Reddy**, a **full-stack MERN developer** from India with a strong focus on **backend engineering**, **system design**, and **practical AI integrations**.
 
-I love building complete features from scratch: designing efficient REST APIs, implementing robust authentication, optimizing databases, and tying it all together with clean, responsive frontends. Understanding the internals of systems is what drives me.
+I enjoy building features end to end — from designing REST APIs and authentication flows to database modeling and clean, maintainable frontends. I care deeply about understanding how systems work internally, not just making them function.
 
-**Primary Stack:** JavaScript (ES6+), Node.js, Express.js, React.js, MongoDB, MySQL, PostgreSQL  
-**Tools & Ecosystem:** Git, Redis, Tailwind CSS, Postman, AWS, Vercel, Prisma, Firebase  
-**AI Specialties:** Gemini API, OpenRouter, HuggingFace, OpenAI integrations
+**Core Stack**
+JavaScript (ES6+), Node.js, Express.js, React.js, MongoDB, MySQL, PostgreSQL
 
-I enjoy creating practical developer tools that solve real pain points and boost productivity. Every project — no matter the size — teaches me something valuable about production-ready development.
+**Tools & Platform**
+Git, Postman, Redis, Tailwind CSS, AWS (basic), Vercel, Prisma, Firebase
 
-📧 **Get in touch:** [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
+I also build **developer tools and CLI utilities** that solve real problems and improve everyday workflows. I learn best by shipping practical projects and refining them based on real usage.
 
----
-
-## 🛠️ Featured Projects
-
-| Project                  | Description                                                                                          | Tech Stack                                      | Repository                                                            |
-|--------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------|
-| **dbSmash**              | CLI + web tool for rapid schema/model generation (Firestore, Supabase, MongoDB)                     | Node.js, React.js, Firebase, Supabase, Prisma   | [GitHub](https://github.com/siddreddy07/dbsmash-CLI-npm-package)      |
-| **Shraddha-Media**       | Full news CMS with admin dashboard, media management, Redis caching, infinite scroll & SEO         | Node.js, React.js, Redis, Tailwind CSS          | *Private*                                                             |
-| **AI Chat Platform**     | Real-time chat with OTP authentication and Gemini-powered AI responses                              | Node.js, Express, MongoDB, Socket.io, Gemini    | [GitHub](https://github.com/siddreddy07/AI-Chat-App)                   |
-| **MCP Server Twitter Agent** | AI-driven CLI for content creation, previewing, and scheduled posting on X/Twitter               | Node.js, Twitter API v2, AI APIs                | [GitHub](https://github.com/siddreddy07/mcp-server-twitter-post)      |
-| **Smart Voter System**   | IoT-based secure voting platform with facial recognition verification                               | ESP32, Node.js, MySQL, Face Recognition         | *Private*                                                             |
+📧 **Contact:** [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🚀 Featured Projects
+
+| Project                | What it Does                                                                            | Stack                                              | Link                                                             |
+| ---------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
+| **dbSmash**            | CLI + web tool to auto-generate schemas and models for Firestore, Supabase, and MongoDB | Node.js, React.js, Firebase, Prisma, MongoDB Atlas | [GitHub](https://github.com/siddreddy07/dbsmash-CLI-npm-package) |
+| **Shraddha Media**     | Full-scale news CMS with admin dashboard, Redis caching, SEO, and infinite scroll       | Node.js, React.js, Redis, Tailwind CSS             | Private                                                          |
+| **AI Chat Platform**   | Real-time chat with OTP authentication and AI-powered responses                         | Node.js, Express, MongoDB, Socket.io               | [GitHub](https://github.com/siddreddy07/AI-Chat-App)             |
+| **MCP Twitter Agent**  | CLI tool for AI-driven post creation and scheduling on X (Twitter)                      | Node.js, Twitter API, AI APIs                      | [GitHub](https://github.com/siddreddy07/mcp-server-twitter-post) |
+| **Smart Voter System** | IoT-based voter verification using facial recognition                                   | ESP32, Node.js, MySQL                              | Private                                                          |
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,postgres,tailwind,redis,git,aws,vercel&perline=8&theme=dark" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=openai,firebase,prisma,postman,bash,docker,socketio&perline=8&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,postgres,redis,tailwind,git,aws,vercel&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postman,bash,firebase,prisma,docker,socketio,openai&theme=dark" />
 </div>
 
 ---
 
-## 💼 Professional Experience & Certifications
+## 💼 Experience
 
-### Experience
-- **MERN Stack Developer Intern** – TEN (India) | Jan 2025 – May 2025  
-  Developed e-commerce features (cart, wishlist, filters) and scalable HRMS REST APIs with MongoDB & Node.js.
+**MERN Stack Developer Intern — TEN (India)**
+*Jan 2025 – May 2025*
 
-- **Backend Developer Intern** – reaidy.io | Aug 2024 – Oct 2024  
-  Built interview platforms, leaderboard endpoints, and AI-driven email automation using Gemini API & NodeMailer.
+* Built cart, wishlist, filtering, and HRMS backend APIs
+* Worked extensively with MongoDB schemas and Node.js services
 
-### Certifications
-- 🏆 NPTEL – Database Management Systems
-- 🏆 HackerRank – Node.js Fundamentals
-- 🏆 Advanced AI API Integration (Gemini, OpenRouter, HuggingFace)
+**Backend Developer Intern — reaidy.io**
+*Aug 2024 – Oct 2024*
+
+* Developed interview platform APIs and leaderboard logic
+* Integrated AI-driven email workflows using Gemini API and NodeMailer
 
 ---
 
-## 📊 GitHub Analytics
+## 🎓 Certifications
+
+* **NPTEL** — Database Management Systems
+* **HackerRank** — Node.js Fundamentals
+* **AI API Integration** — Gemini, OpenRouter, Hugging Face
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E676&text_color=c9d1d9" />
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=BBDEFB&icon_color=00E676" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=BBDEFB" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=siddreddy07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E676&ring=00E676&fire=FF5722&currStreakLabel=00E676" alt="GitHub Streak" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddreddy07&hide_border=true&background=0d1117&stroke=00E676&ring=00E676&fire=ff6f00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E676&sideLabels=c9d1d9" />
 </div>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <div align="center">
-
-<a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:siddharthreddy627@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile%20Views&color=00e676&style=flat-square" alt="Profile Views" />
-
+  <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:siddharthreddy627@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -120,12 +120,14 @@ I enjoy creating practical developer tools that solve real pain points and boost
 
 ## 💡 Philosophy
 
-> **“Code is the foundation of progress.”**  
-> **“AI unlocks limitless possibilities.”**
+> *Build systems that last. Understand them deeply. Improve them continuously.*
 
 <br/>
 
-_Crafted with 💻 precision • ⚡ innovation • ☕ passion_  
-**N Siddharth Reddy** © 2025
+<img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile+Views&color=00e676&style=flat-square" />
+
+<br/>
+
+<strong>N Siddharth Reddy</strong>
 
 </div>
