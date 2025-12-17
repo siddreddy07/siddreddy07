@@ -20,14 +20,18 @@
 </div>
 
 ---
-## 👨‍💻 About Me
-Hi, I'm **N Siddharth Reddy** — a **MERN stack developer** from India who enjoys building real-world projects and learning by doing. I focus on writing clean, functional code and exploring how AI can make development smarter and more practical.
+## 👋 About Me
 
-- 💻 **Tech I'm Learning and Using**: JavaScript (ES6+), Node.js, Express.js, React.js, MongoDB, MySQL, **PostgreSQL**
-- 🛠️ **What I Like Building**: Web apps, backend APIs, small tools that automate tasks or solve developer problems
-- 🤖 **Currently Exploring**: LangChain and TypeScript — building and understanding how AI agents work step by step
-- 📧 **Contact**: [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
-- 🌱 **Why I Build**: I learn best by building things that feel useful — even small projects teach me how real systems work.
+Hi, I’m **N Siddharth Reddy**, a **full-stack MERN developer** from India with a strong interest in **backend development** and building real-world applications.
+
+I enjoy working on features end-to-end — designing REST APIs, implementing authentication flows, managing databases, and connecting everything with clean, functional frontends. I like understanding how systems work internally, not just making them run.
+
+My primary tech stack includes **JavaScript (ES6+)**, **Node.js**, **Express.js**, **React.js**, **MongoDB**, **MySQL**, and **PostgreSQL**. I’m comfortable using tools like **Git**, **Postman**, and working with third-party APIs, along with basic **AWS deployment workflows**.
+
+I also enjoy building **small developer tools, CLI utilities, and automation scripts** that solve practical problems and improve everyday development workflows. I learn best by building things that feel useful — even small projects help me understand real systems better.
+
+📧 **Contact:** [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
+
 
 ---
 ## 🛠️ Key Projects
