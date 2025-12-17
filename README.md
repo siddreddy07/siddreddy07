@@ -4,7 +4,7 @@
 
 ### MERN Stack Developer · Backend-Focused · Applied AI
 
-<img src="https://thumbs.dreamstime.com/b/abstract-green-tech-background-generative-design-elements-futuristic-data-streams-glowing-neon-lights-digital-circuits-387820891.jpg" alt="Tech Banner" width="100%" style="border-radius: 14px; box-shadow: 0 6px 24px rgba(0, 230, 118, 0.35);" />
+<img src="[https://thumbs.dreamstime.com/b/abstract-green-tech-background-generative-design-elements-futuristic-data-streams-glowing-neon-lights-digital-circuits-387820891.jpg" alt="Tech Banner" width="100%" style="border-radius: 14px; box-shadow: 0 6px 24px rgba(0, 230, 118, 0.35);](https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg" height="280px" width="400px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;)" />
 
 <br/>
 
@@ -61,7 +61,7 @@ I also build **developer tools and CLI utilities** that solve real problems and 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,postgres,redis,tailwind,git,aws,vercel&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postman,bash,firebase,prisma,docker,socketio,openai&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postman,bash,firebase,prisma,socketio,openai&theme=dark" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ I also build **developer tools and CLI utilities** that solve real problems and 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddreddy07&hide_border=true&background=0d1117&stroke=00E676&ring=00E676&fire=ff6f00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E676&sideLabels=c9d1d9" />
+  <img src="https://streak-stats.demolab.com?user=siddreddy07&theme=dark&hide_border=true&background=0d1117&ring=00E676&fire=ff6f00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E676&sideLabels=c9d1d9" />
 </div>
 
 ---
