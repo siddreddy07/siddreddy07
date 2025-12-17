@@ -94,19 +94,28 @@ I also build **developer tools and CLI utilities** that solve real problems and 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=onedark&hide_border=true&bg_color=121212&title_color=00E676&text_color=BBDEFB" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E676&icon_color=00E676&text_color=c9d1d9"
+    height="165"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&layout=compact&theme=onedark&hide_border=true&bg_color=121212&title_color=00E676&text_color=BBDEFB" alt="Top Languages" />
-
-  <picture>
-
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" />
-
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" alt="GitHub Streak" />
-
-  </picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E676&text_color=c9d1d9"
+    height="165"
+  />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com?user=siddreddy07&hide_border=true&background=0d1117&ring=00E676&fire=ff6f00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00E676&sideLabels=c9d1d9"
+  />
+
+</div>
+
 ---
 
 ## 🌐 Connect
