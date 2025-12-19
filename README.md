@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273" target="_blank">
+<a href="https://www.linkedin.com/in/n-siddharth-reddy/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:siddharthreddy627@gmail.com">
@@ -28,18 +28,28 @@
 
 ## 👋 About Me
 
-I’m **N Siddharth Reddy**, a **full-stack MERN developer** from India with a strong focus on **backend engineering**, **system design**, and **practical AI integrations**.
 
-I enjoy building features end to end — from designing REST APIs and authentication flows to database modeling and clean, maintainable frontends. I care deeply about understanding how systems work internally, not just making them function.
+Hi, I’m Siddharth Reddy 👋 
+I enjoy building reliable backend systems APIs, authentication flows, AI agents and data-driven features along with clean, simple frontends using React.js.
 
-**Core Stack**
-JavaScript (ES6+), Node.js, Express.js, React.js, MongoDB, MySQL, PostgreSQL
+I learn best by building real projects and improving them step by step.
 
-**Tools & Platform**
-Git, Postman, Redis, Tailwind CSS, AWS (basic), Vercel, Prisma, Firebase
+So far, I’ve:
+• Built REST APIs, database models, authentication features, and React.js interfaces during internships at TEN and Reaidy.io 
+• Published my first NPM package, dbSmash , a tool to quickly set up databases (40+ users) 
+• Been working on AI agents, CLI automation tools, and generative AI projects to make backend development smarter and more efficient
 
-I also build **developer tools and CLI utilities** that solve real problems and improve everyday workflows. I learn best by shipping practical projects and refining them based on real usage.
+Technical Skills:
+• Node.js, Express.js, REST APIs 
+• Authentication: JWT, OAuth 
+• Databases: MongoDB, MySQL, PostgreSQL (basic) 
+• Caching & Data Stores: Redis 
+• React.js, Tailwind CSS 
+• Git, GitHub, Postman
 
+I’m at the beginning of my professional journey, but I’m curious, consistent, and serious about growing as an engineer by building meaningful software.
+
+Always open to connecting, learning, and collaborating 🤝
 📧 **Contact:** [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
 
 ---
