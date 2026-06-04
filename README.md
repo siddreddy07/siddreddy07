@@ -144,14 +144,6 @@ const sidd = {
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=siddreddy07&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00b4d8&currStreakLabel=00d4ff&sideLabels=90e0ef&dates=58a6ff&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a8dadc&langs_count=8" width="49%" />
-
-</div>
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=0d1117&color=00d4ff&line=0077b6&point=00d4ff&area=true&area_color=00b4d815&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
