@@ -1,136 +1,167 @@
 <div align="center">
 
-# N Siddharth Reddy
+# ⚡ N Siddharth Reddy
 
-### MERN Stack Developer · Backend-Focused · Applied AI
+### 🚀 Backend Engineer · MERN Developer · AI Systems Builder
 
-<img src="https://i.pinimg.com/736x/dc/66/43/dc6643c730915eb39359fbcceec84a05.jpg" height="280px" width="400px" alt="Futuristic Tech Banner" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); transition: transform 0.3s ease;" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00E676&center=true&vCenter=true&width=900&lines=Backend+Systems+Builder.;AI-Driven+Automation+Engineer.;Scalable+APIs+%7C+Distributed+Systems+%7C+DevTools" />
 
-<br/>
+---
 
-<a href="https://www.linkedin.com/in/n-siddharth-reddy/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/siddreddy07">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Work-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="mailto:siddharthreddy627@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-<a href="https://github.com/siddreddy07">
-  <img src="https://img.shields.io/badge/GitHub-siddreddy07-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/n-siddharth-reddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
+</div>
+
+---
+
+## 🧠 SYSTEM OVERVIEW
+
+> “I build backend systems that scale, automate workflows with AI, and design APIs that don’t break under pressure.”
+
+---
+
+<details>
+<summary>⚙️ <b>Core Engineering Focus</b></summary>
+
+- Scalable backend architecture (Node.js + Express)
+- REST & event-driven APIs
+- Authentication systems (JWT, OAuth)
+- Redis-based caching & rate limiting
+- AI workflow automation systems
+- CLI tools & developer productivity systems
+
+</details>
+
+---
+
+<details>
+<summary>🧰 <b>Tech Stack Matrix</b></summary>
+
+### Backend Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=flat)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat&logo=redis)
+
+### Frontend (Support Layer)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-blue?style=flat)
+
+</details>
+
+---
+
+<details>
+<summary>💼 <b>Experience Timeline</b></summary>
+
+### 🏢 TEN (India) — MERN Stack Developer
+`Jan 2025 – May 2025`
+
+- Built scalable backend modules (HRMS + E-commerce)
+- Designed REST APIs for production workloads
+- Optimized MongoDB schema + queries
+
+---
+
+### 🏢 reaidy.io — Backend Developer
+`Aug 2024 – Oct 2024`
+
+- Built assessment + interview platform APIs
+- Implemented leaderboard + scoring engine
+- Integrated AI email automation workflows
+
+</details>
+
+---
+
+<details>
+<summary>🚀 <b>Flagship Projects</b></summary>
+
+### 🧠 dbSmash (NPM CLI Tool)
+> Auto-generates database schemas across MongoDB / Firebase / Supabase
+
+- CLI-first architecture
+- Developer productivity focus
+- Used by early adopters
+
+🔗 https://github.com/siddreddy07/dbsmash-CLI-npm-package
+
+---
+
+### 💬 AI Chat Platform
+> Real-time chat system with AI responses
+
+- OTP authentication system
+- Socket.io real-time engine
+- AI-powered response layer
+
+🔗 https://github.com/siddreddy07/AI-Chat-App
+
+---
+
+### 🧩 MCP Twitter Agent
+> AI CLI tool for automated post generation & scheduling
+
+- Prompt → Post pipeline
+- Twitter API automation
+- CLI developer experience
+
+🔗 https://github.com/siddreddy07/mcp-server-twitter-post
+
+---
+
+</details>
+
+---
+
+<details>
+<summary>📊 <b>GitHub Intelligence</b></summary>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=onedark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=compact&theme=onedark&hide_border=true" />
+
+</p>
+
+</details>
+
+---
+
+<details>
+<summary>🧠 <b>Engineering Philosophy</b></summary>
+
+> Build systems that are simple to reason about, scalable under load, and easy to extend without breaking production.
+
+</details>
+
+---
+
+## 🌐 CONNECT LAYER
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile+Traffic&color=00e676&style=flat-square" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00E676&center=true&vCenter=true&width=900&lines=Backend-first+engineering.;Practical+AI+integrations.;Building+useful+systems+end+to+end." />
-
-</div>
-
----
-
-## 👋 About Me
-
-
-Hi, I’m Siddharth Reddy 👋 
-I enjoy building reliable backend systems APIs, authentication flows, AI agents and data-driven features along with clean, simple frontends using React.js.
-
-I learn best by building real projects and improving them step by step.
-
-So far, I’ve:
-• Built REST APIs, database models, authentication features, and React.js interfaces during internships at TEN and Reaidy.io 
-• Published my first NPM package, dbSmash , a tool to quickly set up databases (40+ users) 
-• Been working on AI agents, CLI automation tools, and generative AI projects to make backend development smarter and more efficient
-
-Technical Skills:
-• Node.js, Express.js, REST APIs 
-• Authentication: JWT, OAuth 
-• Databases: MongoDB, MySQL, PostgreSQL (basic) 
-• Caching & Data Stores: Redis 
-• React.js, Tailwind CSS 
-• Git, GitHub, Postman
-
-I’m at the beginning of my professional journey, but I’m curious, consistent, and serious about growing as an engineer by building meaningful software.
-
-Always open to connecting, learning, and collaborating 🤝
-📧 **Contact:** [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-| Project                | What it Does                                                                            | Stack                                              | Link                                                             |
-| ---------------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------- |
-| **dbSmash**            | CLI + web tool to auto-generate schemas and models for Firestore, Supabase, and MongoDB | Node.js, React.js, Firebase, Prisma, MongoDB Atlas | [GitHub](https://github.com/siddreddy07/dbsmash-CLI-npm-package) |
-| **Shraddha Media**     | Full-scale news CMS with admin dashboard, Redis caching, SEO, and infinite scroll       | Node.js, React.js, Redis, Tailwind CSS             | Private                                                          |
-| **AI Chat Platform**   | Real-time chat with OTP authentication and AI-powered responses                         | Node.js, Express, MongoDB, Socket.io               | [GitHub](https://github.com/siddreddy07/AI-Chat-App)             |
-| **MCP Twitter Agent**  | CLI tool for AI-driven post creation and scheduling on X (Twitter)                      | Node.js, Twitter API, AI APIs                      | [GitHub](https://github.com/siddreddy07/mcp-server-twitter-post) |
-| **Smart Voter System** | IoT-based voter verification using facial recognition                                   | ESP32, Node.js, MySQL                              | Private                                                          |
-
----
-
-## 🧰 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,mysql,postgres,redis,tailwind,git,aws,vercel&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postman,bash,firebase,prisma,socketio,openai&theme=dark" />
-</div>
-
----
-
-## 💼 Experience
-
-**MERN Stack Developer Intern — TEN (India)**
-*Jan 2025 – May 2025*
-
-* Built cart, wishlist, filtering, and HRMS backend APIs
-* Worked extensively with MongoDB schemas and Node.js services
-
-**Backend Developer Intern — reaidy.io**
-*Aug 2024 – Oct 2024*
-
-* Developed interview platform APIs and leaderboard logic
-* Integrated AI-driven email workflows using Gemini API and NodeMailer
-
----
-
-## 🎓 Certifications
-
-* **NPTEL** — Database Management Systems
-* **HackerRank** — Node.js Fundamentals
-* **AI API Integration** — Gemini, OpenRouter, Hugging Face
-
----
-
-## 📊 GitHub Stats
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=onedark&hide_border=true&bg_color=121212&title_color=00E676&text_color=BBDEFB" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddreddy07&layout=compact&theme=onedark&hide_border=true&bg_color=121212&title_color=00E676&text_color=BBDEFB" alt="Top Languages" /> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" /> <img src="https://github-readme-streak-stats-eight.vercel.app?user=siddreddy07&theme=onedark&hide_border=true&background=121212&stroke=00E676&ring=00E676&fire=FF5722&currStreakNum=BBDEFB&sideNums=BBDEFB&currStreakLabel=00E676&sideLabels=BBDEFB" alt="GitHub Streak" /> </picture> </div>
-
----
-
-## 🌐 Connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/n-siddharth-reddy-9579a1273">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:siddharthreddy627@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-## 💡 Philosophy
-
-> *Build systems that last. Understand them deeply. Improve them continuously.*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=siddreddy07&label=Profile+Views&color=00e676&style=flat-square" />
-
-<br/>
-
-<strong>N Siddharth Reddy</strong>
+**Let’s build systems that actually matter.**
 
 </div>
