@@ -1,10 +1,12 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,25:0a0f1e,75:0a1628,100:000d1a&height=1&section=header"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:111827,100:0d0d0d&height=160&section=header&text=N.%20Siddharth%20Reddy&fontSize=50&fontColor=e2e8f0&fontAlignY=55&desc=Backend%20Engineer%20%E2%80%94%20AI%20Systems%20%E2%80%94%20Node.js&descAlignY=78&descSize=15&descColor=64748b&animation=blinking&stroke=38bdf8&strokeWidth=1.5" />
+
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0077b6,100:023e8a&height=220&section=header&text=Siddharth%20Reddy&fontSize=62&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%7C%20AI%20Systems%20%7C%20Node.js&descAlignY=68&descSize=17&descColor=90e0ef&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&height=40&lines=Building+AI+Agents+%7C+RAG+Pipelines+%7C+Realtime+APIs;Node.js+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+LLM+Integrations;Actively+looking+for+Backend+%2F+AI+Developer+roles)](https://github.com/siddreddy07)
 
 </div>
 
@@ -12,101 +14,166 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Building+AI+Agents+%26+Scalable+APIs+from+Hyderabad%2C+India;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+LLM+Integrations;Open+to+Full-Time+Roles+%E2%80%94+Let%27s+build+something+real)](https://github.com/Siddharthreddy07)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-siddharth-reddy/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=38bdf8)](https://siddharth-portfolio-delta.vercel.app/)
+[![Email](https://img.shields.io/badge/-siddharthreddy627@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=f87171)](mailto:siddharthreddy627@gmail.com)
+[![npm](https://img.shields.io/badge/-dbsmash-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/package/dbsmash)
+[![Views](https://komarev.com/ghpvc/?username=siddreddy07&style=flat-square&color=38bdf8&label=profile+views)](https://github.com/siddreddy07)
 
 </div>
 
 ---
 
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Siddharthreddy07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00b4d8&text_color=a8dadc&count_private=true&include_all_commits=true&rank_icon=github" />
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&include_all_commits=true&rank_icon=percentile&show=reviews,discussions_started" />
 
-### 🧠 About Me
+### About
 
-```ts
-const sidd = {
-  name    : "N. Siddharth Reddy",
-  based   : "Hyderabad / Vizag, India",
-  degree  : "B.Tech CSE — Andhra University",
-  cgpa    : 7.99,
-  grad    : "Apr 2025",
-  focus   : ["AI Agents", "RAG Pipelines",
-             "Realtime Systems", "API Design"],
-  building: "Voice AI Companion App",
-  status  : "🟢 OPEN TO WORK",
-  contact : "siddharthreddy627@gmail.com"
-};
+```yaml
+name: N. Siddharth Reddy
+handle: siddreddy07
+location: Hyderabad / Vizag, India
+education:
+  institute: Andhra University CoE
+  degree: B.Tech CSE
+  cgpa: 7.99 | Apr 2025
+
+focus:
+  - AI Agents & Tool Calling
+  - RAG Pipelines & Vector Search
+  - Scalable REST APIs
+  - Realtime Systems
+
+currently_building:
+  - Voice AI Companion App
+  - MCP Server for Twitter
+
+published:
+  npm: dbsmash (AI schema CLI)
+
+status: OPEN TO WORK ✦
 ```
-
-- 🔭 Currently building a **full-stack AI companion** with voice, emotion & memory
-- 📦 Published [`dbSmash`](https://www.npmjs.com/package/dbsmash) — AI-powered schema CLI on npm
-- ⚡ Competed in **Forsy × Vercel** & **React Hyderabad** hackathons
-- 🤝 Open to full-time backend / AI developer roles
 
 <br clear="right"/>
 
 ---
 
-### 🛠 Tech Stack
+### Stack
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1e293b?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-f97316?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-1e293b?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1e293b?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285f4?style=flat-square&logo=google&logoColor=white)
+
+**Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1e293b?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-c5f74f?style=flat-square&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-dc244c?style=flat-square&logoColor=white)
+
+**AI / LLM**
+
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-1e293b?style=flat-square&logo=vercel&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285f4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f54d27?style=flat-square&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6c47ff?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8b5cf6?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-f97316?style=flat-square)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61dafb?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Infra & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS_EC2%2FS3-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/CF_R2-f38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+### Experience
+
+**MERN Stack Developer Intern** · TEN, India &nbsp;·&nbsp; `Jan 2025 – May 2025`
+
+- Built 6+ HRMS API endpoints with middleware-level RBAC and structured error contracts
+- Developed cart, wishlist & filtering features in React with Context API
+- Authored reusable validation middleware reducing boilerplate across routes
+
+**Backend Developer Intern** · reaidy.io, India &nbsp;·&nbsp; `Aug 2024 – Oct 2024`
+
+- Rewrote auth system — httpOnly cookies, CSRF protection, Redis rate limiting
+- Optimized MongoDB aggregation pipelines (`$group`, `$sort`, `$lookup`) for dashboard queries
+- Reduced redundant DB hits by restructuring query patterns across core endpoints
+
+---
+
+### Projects
 
 <table>
 <tr>
-<td><b>⚙️ Backend</b></td>
-<td>
+<td width="50%" valign="top">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=google&logoColor=white)
+**[🐾 Mew-Claw](https://github.com/siddreddy07)**
+Autonomous AI agent on Telegram with tool-calling loop — file ops, code edits, terminal execution, web search, with human-in-loop approval for destructive actions.
+
+`Node.js` · `Groq` · `Vercel AI SDK` · `Telegram Bot API`
+
+</td>
+<td width="50%" valign="top">
+
+**[⚡ dbSmash](https://github.com/siddreddy07/dbsmash-CLI-npm-package)** &nbsp; [![npm](https://img.shields.io/npm/v/dbsmash?color=cb3837&style=flat-square)](https://www.npmjs.com/package/dbsmash)
+Plain-English → full DB schema, models & seeders for MongoDB / Supabase / Firestore. Published on npm, used via CLI.
+
+`Node.js` · `Gemini` · `OpenRouter` · `CLI`
 
 </td>
 </tr>
 <tr>
-<td><b>🗄️ Data</b></td>
-<td>
+<td width="50%" valign="top">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+**[🐦 MCP Twitter Server](https://github.com/siddreddy07/mcp-server-twitter-post)**
+MCP server exposing Twitter post capabilities as a tool — lets any LLM agent post tweets programmatically via the MCP protocol.
+
+`Node.js` · `MCP` · `Twitter API`
+
+</td>
+<td width="50%" valign="top">
+
+**[🤖 AI Chat App](https://github.com/siddreddy07/AI-Chat-App)**
+Full-stack AI chat interface with streaming responses, conversation history, and multi-model support.
+
+`Node.js` · `React` · `LLM APIs`
 
 </td>
 </tr>
 <tr>
-<td><b>🤖 AI / LLM</b></td>
-<td>
+<td width="50%" valign="top">
 
-![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F54D27?style=flat-square&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6C47FF?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=flat-square&logoColor=white)
-![Tool Calling](https://img.shields.io/badge/Tool%20Calling-FF6F00?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**[📧 AI Email Buddy](https://github.com/siddreddy07/Ai-Email-Buddy)**
+AI-powered email drafting assistant that generates professional replies and cold outreach based on context.
+
+`Node.js` · `Gemini` · `React`
 
 </td>
-</tr>
-<tr>
-<td><b>🎨 Frontend</b></td>
-<td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**[🌐 dbSmash Web](https://github.com/siddreddy07/dbsmash-WEB)**
+Web interface for dbSmash — describe your app and generate complete database schemas visually in browser.
 
-</td>
-</tr>
-<tr>
-<td><b>☁️ Infra</b></td>
-<td>
-
-![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+`Next.js` · `Tailwind` · `Gemini API`
 
 </td>
 </tr>
@@ -114,63 +181,34 @@ const sidd = {
 
 ---
 
-### 💼 Experience
-
-**`MERN Stack Developer Intern`** · TEN, India &nbsp;|&nbsp; *Jan 2025 – May 2025*
-> Designed 6+ HRMS API endpoints with middleware-level RBAC · Built cart, wishlist & filter features in React · Authored reusable validation middleware with structured error contracts
-
-**`Backend Developer Intern`** · reaidy.io, India &nbsp;|&nbsp; *Aug 2024 – Oct 2024*
-> Rewrote auth to httpOnly cookies + CSRF + Redis rate-limiting · Optimized MongoDB aggregation pipelines ($group/$sort/$lookup) · Cut redundant DB queries across core endpoints
-
----
-
-### 🚀 Featured Projects
+### Stats
 
 <div align="center">
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🐾 **[Mew-Claw](https://github.com/Siddharthreddy07)** | Autonomous Telegram AI agent — file ops, code edits, terminal exec & web search via tool-calling loop with human-in-loop approval | `Node.js` `Groq` `Vercel AI SDK` `Telegram` |
-| ⚡ **[dbSmash](https://www.npmjs.com/package/dbsmash)** [![npm](https://img.shields.io/npm/v/dbsmash?color=CB3837&style=flat-square&label=)](https://www.npmjs.com/package/dbsmash) | Plain-English → full DB schema, models & seeders for MongoDB / Supabase / Firestore. Published on npm | `Node.js` `Gemini` `OpenRouter` `CLI` |
-| 📰 **[Shraddha-Media](https://github.com/Siddharthreddy07)** | Production news CMS — RBAC, Redis instant-logout sessions, auto sitemap, SEO pipeline, image management | `Node.js` `React` `Redis` `MongoDB` `AWS S3` |
-| 🪝 **[HookLens](https://github.com/Siddharthreddy07)** | AI webhook inspector — real-time capture, replay & diff. Ships as an **npm Express middleware** | `Node.js` `WebSockets` `Express` `npm` |
+<img src="https://streak-stats.demolab.com?user=siddreddy07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="49%" />
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e920&hide_border=true&custom_title=Contribution+Graph&radius=4" width="98%" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=0d1117&color=00d4ff&line=0077b6&point=00d4ff&area=true&area_color=00b4d815&hide_border=true&custom_title=Contribution%20Activity" width="98%"/>
-
-</div>
-
----
-
-### 🎓 Education
+### Education
 
 **B.Tech — Computer Science & Engineering**  
-Andhra University College of Engineering, Visakhapatnam · *Dec 2021 – Apr 2025* · **CGPA: 7.99/10**
+Andhra University College of Engineering, Visakhapatnam &nbsp;·&nbsp; Dec 2021 – Apr 2025 &nbsp;·&nbsp; **CGPA: 7.99 / 10**
 
-📜 Database Management Systems — **NPTEL** &nbsp;|&nbsp; 📜 Node.js Basic — **HackerRank**
+`NPTEL` Database Management Systems &nbsp;&nbsp; `HackerRank` Node.js Basic
 
 ---
 
-### 📬 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthreddy627)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-siddharthreddy.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthreddy627@gmail.com)
-[![npm](https://img.shields.io/badge/npm-dbSmash-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dbsmash)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddharthreddy07)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f172a,100:0d1117&height=80&section=footer&reversal=false"/>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Siddharthreddy07&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:023e8a,50:0077b6,100:00d4ff&height=100&section=footer"/>
+*Open to full-time backend / AI developer roles — [reach out](mailto:siddharthreddy627@gmail.com)*
 
 </div>
