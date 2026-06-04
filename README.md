@@ -97,7 +97,6 @@ const sidd = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
 </td>
 </tr>
@@ -106,11 +105,8 @@ const sidd = {
 <td>
 
 ![AWS](https://img.shields.io/badge/AWS%20EC2%2FS3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/CF%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Ably](https://img.shields.io/badge/Ably-03020D?style=flat-square&logoColor=white)
 
 </td>
 </tr>
