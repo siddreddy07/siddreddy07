@@ -97,10 +97,8 @@ status: OPEN TO WORK ✦
 **Infra & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS_EC2%2FS3-232f3e?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-dc382d?style=flat-square&logo=redis&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/CF_R2-f38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 
