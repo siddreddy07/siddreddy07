@@ -1,161 +1,268 @@
 <div align="center">
-  
-  <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/8101421758?v=4" width="160" height="160" style="border-radius: 50%; border: 4px solid #0A66C2;" alt="N. Siddharth Reddy">
 
-  <h1>N. Siddharth Reddy</h1>
-  <h3>Backend Engineer &amp; Full-Stack Developer</h3>
-  <p><strong>Node.js • AI-Powered Applications • Scalable Systems</strong></p>
-
-  <p>
-    <a href="https://linkedin.com/in/siddharthreddy627" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/siddharthreddy627" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://portfolio-siddharthreddy.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="mailto:siddharthreddy627@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="tel:+918101421758">
-      <img src="https://img.shields.io/badge/+91%208101421758-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact">
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=siddharthreddy627&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views">
+<!-- ANIMATED BANNER -->
+<a href="https://portfolio-siddharthreddy.vercel.app">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d2137,100:00b4d8&height=200&section=header&text=N.%20Siddharth%20Reddy&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20AI%20Systems%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=16&descColor=7ecfff&animation=twinkling" />
+</a>
 
 </div>
-
----
-
-### 👋 About Me
-
-Passionate **Backend Engineer** and **Full-Stack Developer** specializing in building high-performance web applications and intelligent AI-powered products. With strong expertise in modern backend architecture, database design, and LLM integrations, I focus on delivering clean, scalable, and maintainable solutions.
-
-- 🔭 Currently working on advanced **AI Agents** and **RAG-based systems**
-- 📦 Published npm package: [`dbSmash`](https://www.npmjs.com/package/dbsmash)
-- 🌱 Always exploring new technologies in AI and cloud infrastructure
-- 📍 Open to full-time opportunities and exciting collaborations
-
----
-
-### 🛠️ Technical Skills
 
 <div align="center">
 
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**AI & Machine Learning**  
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4285F4?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-8B5CF6?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-FF0000?style=for-the-badge&logo=groq&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Tools & Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+```
+╔══════════════════════════════════════════════════════════════╗
+║  > whoami                                                    ║
+║                                                              ║
+║    Backend Engineer from Hyderabad, India                    ║
+║    Specializing in Node.js, AI Agents & Scalable Systems     ║
+║    Open to Full-Time Roles & Collaborations                  ║
+║                                                              ║
+║  > status: [  ACTIVELY HIRING  ]                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-### 💼 Work Experience
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=siddharthreddy627&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00b4d8&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 
-**MERN Stack Developer Intern**  
-**TEN, India** — *January 2025 – May 2025*
+### `> cat about_me.json`
 
-- Designed and implemented **6+ HRMS API endpoints** with robust role-based access control at middleware level
-- Developed shopping cart, wishlist, and advanced filtering features in React using Context API
-- Created reusable validation middleware with structured error responses, improving code quality
+```json
+{
+  "name": "N. Siddharth Reddy",
+  "role": "Backend Engineer",
+  "location": "Hyderabad / Vizag, India",
+  "university": "Andhra University CoE",
+  "cgpa": 7.99,
+  "graduation": "Apr 2025",
+  "focus": [
+    "Node.js APIs at scale",
+    "AI Agents & Tool Calling",
+    "RAG Pipelines & Vector Search",
+    "Real-time Systems"
+  ],
+  "currently_building": "AI Companion App (full-stack)",
+  "open_to": "Full-time Roles & Freelance",
+  "npm_published": "dbSmash (AI Schema Generator)"
+}
+```
 
-**Backend Developer Intern**  
-**reaidy.io, India** — *August 2024 – October 2024*
-
-- Optimized performance using MongoDB aggregation pipelines ($group, $sort, $lookup)
-- Refactored authentication system to use secure httpOnly cookies with CSRF protection and Redis rate limiting
-- Reduced database queries significantly through efficient query design
+<br clear="right"/>
 
 ---
 
-### 🔥 Featured Projects
+### `> ls ./tech_stack --all`
+
+<div align="center">
+
+#### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+
+#### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+
+#### 🤖 AI / LLM Ecosystem
+![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F54D27?style=flat-square&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-6C47FF?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-8B5CF6?style=flat-square&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-FF6F00?style=flat-square&logoColor=white)
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+#### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Ably](https://img.shields.io/badge/Ably%20Realtime-03020D?style=flat-square&logo=ably&logoColor=white)
+
+</div>
+
+---
+
+### `> cat experience.log`
+
+```diff
++ [Jan 2025 – May 2025] MERN Stack Developer Intern @ TEN, India
+  - Architected 6+ HRMS API endpoints with middleware-level RBAC
+  - Built shopping cart, wishlist & advanced filtering (React + Context API)
+  - Created reusable validation middleware with structured error contracts
+
++ [Aug 2024 – Oct 2024] Backend Developer Intern @ reaidy.io, India
+  - Rewrote auth system → httpOnly cookies + CSRF protection + Redis rate limiting
+  - Optimized MongoDB aggregations ($group, $sort, $lookup) cutting query time significantly
+  - Refactored query layer, reducing redundant DB hits across core endpoints
+```
+
+---
+
+### `> ls ./projects --sort=impact`
+
+<br/>
 
 <table>
-  <tr>
-    <td width="50%" align="center" style="padding: 15px;">
-      <h3>🐾 Mew-Claw</h3>
-      <p><strong>Autonomous AI Agent for Telegram</strong></p>
-      <p>Node.js • Groq • Vercel AI SDK • Telegram Bot API</p>
-      <p>An intelligent AI assistant capable of file operations, code editing, terminal execution, web search, and system automation with human-in-the-loop approval for safety.</p>
-    </td>
-    <td width="50%" align="center" style="padding: 15px;">
-      <h3>⚡ dbSmash</h3>
-      <p><strong>AI-Powered Schema Generator CLI</strong></p>
-      <a href="https://www.npmjs.com/package/dbsmash">
-        <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-      </a>
-      <p>Describe your application in plain English and instantly generate complete schemas, models, seeders, and configuration for MongoDB, Supabase, or Firestore.</p>
-    </td>
-  </tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### 🐾 `Mew-Claw`
+> Autonomous AI Agent · Telegram · Tool Calling
+
+Built with **Vercel AI SDK + Groq** on Node.js. Capable of file CRUD, code editing, terminal execution, web search & system automation via tool-calling loop — with human-in-the-loop approval gates for destructive ops.
+
+`Node.js` `Groq` `Vercel AI SDK` `Telegram Bot API`
+
+</td>
+
+<td width="50%" valign="top">
+
+#### ⚡ `dbSmash` · [![npm](https://img.shields.io/npm/v/dbsmash?color=CB3837&label=npm&style=flat-square)](https://www.npmjs.com/package/dbsmash)
+> AI-Powered CLI Schema Generator · npm Published
+
+Describe your app in plain English → instantly get full schemas, models, seeders & config for **MongoDB, Supabase, or Firestore**. Powered by Gemini & OpenRouter.
+
+`Node.js` `Gemini API` `OpenRouter` `MongoDB` `PostgreSQL`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### 💙 `Echo / Minit` *(In Progress)*
+> AI Emotional Companion Platform
+
+Full-stack mobile app with voice AI pipeline (Sarvam Saaras v3 STT + Bulbul v3 TTS), emotion tool-calling, CBT/DBT/ACT therapeutic frameworks, vector memory (Qdrant), BullMQ job queuing, and Better Auth.
+
+`React Native` `Node.js` `Qdrant` `BullMQ` `Sarvam AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🔭 `FounderOS`
+> Autonomous Startup Co-pilot · Hackathon Build
+
+5 parallel sub-agents (landing page audit, competitor research, copy rewriting, growth plan, cold outreach) returning a unified startup report **in under 60 seconds**.
+
+`Vercel AI SDK` `Parallel Agents` `Next.js` `Tailwind`
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+#### 📰 `Shraddha-Media`
+> Production News CMS · Live
+
+Full-featured CMS with RBAC, Redis session-based instant logout, automated sitemap generation, SEO optimization, and image management.
+
+`Node.js` `React` `Redis` `MongoDB` `AWS S3`
+
+</td>
+
+<td width="50%" valign="top">
+
+#### 🪝 `HookLens`
+> AI Webhook Inspector
+
+Real-time webhook capture, replay, and diff inspection. Ships as an **npm Express middleware** package for instant integration into any Node.js project.
+
+`Node.js` `Express` `WebSockets` `npm Package`
+
+</td>
+
+</tr>
 </table>
 
-**Shraddha-Media — Production News CMS**  
-A full-featured content management system built with Node.js, React, and Redis. Features include role-based access control, instant logout capability using Redis sessions, automated sitemap generation, and SEO optimization.
-
 ---
 
-### 📊 GitHub Statistics
+### `> cat stats.sh | bash`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddharthreddy627&show_icons=true&theme=radical&hide_border=true&count_private=true" height="195px" alt="GitHub Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthreddy627&theme=dark&hide_border=true&background=0d1117&ring=00d4ff&fire=00b4d8&currStreakLabel=7ecfff&sideLabels=7ecfff&dates=58a6ff&currStreakNum=00d4ff&sideNums=00d4ff" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthreddy627&theme=radical&hide_border=true" height="195px" alt="Streak Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthreddy627&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" height="180"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/?username=siddharthreddy627&theme=radical&hide_border=true&area=true" width="100%" alt="Contribution Graph">
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharthreddy627&bg_color=0d1117&color=00d4ff&line=00b4d8&point=ffffff&area=true&area_color=00b4d820&hide_border=true" width="97%"/>
 
 </div>
 
 ---
 
-### 🎓 Education & Certifications
+### `> cat education.txt && cat certs.txt`
 
-- **B.Tech in Computer Science and Engineering**  
-  Andhra University College of Engineering, Visakhapatnam  
-  *December 2021 – April 2025* | **CGPA: 7.99/10.0**
+```
+🎓  B.Tech — Computer Science & Engineering
+    Andhra University College of Engineering, Visakhapatnam
+    Dec 2021 – Apr 2025  |  CGPA: 7.99 / 10.0
 
-- **Database Management Systems** — NPTEL
-- **Node.js (Basic)** — HackerRank
+📜  Database Management Systems   —  NPTEL
+📜  Node.js (Basic)               —  HackerRank
+```
 
 ---
 
+### `> cat connect.sh`
+
 <div align="center">
-  <h3>✨ Let's connect and build impactful solutions together</h3>
-  
-  <a href="mailto:siddharthreddy627@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=for-the-badge&logo=handshake&logoColor=white" alt="Open for Opportunities">
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharthreddy627-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthreddy627)
+[![GitHub](https://img.shields.io/badge/GitHub-siddharthreddy627-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddharthreddy627)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-siddharthreddy.vercel.app)
+[![Email](https://img.shields.io/badge/Email-siddharthreddy627@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthreddy627@gmail.com)
+[![npm](https://img.shields.io/badge/npm-dbSmash-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/dbsmash)
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/%E2%9A%A1_OPEN_TO_WORK-00C853?style=for-the-badge&logoColor=white)](mailto:siddharthreddy627@gmail.com)
+
+```
+> ping siddharthreddy627@gmail.com
+> Response time: fast
+> Status: OPEN TO WORK — Full Stack / AI Developer Roles
+```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0d2137,100:0a0a0a&height=100&section=footer&reversal=false" />
+
 </div>
 
-<br>
-
 ---
 
 <div align="center">
-  <strong>© 2026 N. Siddharth Reddy • Crafted with passion</strong>
+  <sub>
+    <img src="https://komarev.com/ghpvc/?username=siddharthreddy627&label=PROFILE+VIEWS&color=00d4ff&style=flat-square" />
+    &nbsp;&nbsp;
+    <strong>© 2026 N. Siddharth Reddy — Crafted with precision</strong>
+  </sub>
 </div>
