@@ -184,13 +184,6 @@ Web interface for dbSmash — describe your app and generate complete database s
 ### Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=siddreddy07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" width="49%" />
-
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=38bdf8&area=true&area_color=0ea5e920&hide_border=true&custom_title=Contribution+Graph&radius=4" width="98%" />
 </div>
 
