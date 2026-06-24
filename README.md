@@ -124,7 +124,7 @@ status: OPEN TO WORK ✦
 <tr>
 <td width="50%" valign="top">
 
-**[🐾 Mew-Claw](https://github.com/siddreddy07)**
+**[🐾 Mew-Claw](https://github.com/siddreddy07/Mew-Claw)**
 Autonomous AI agent on Telegram with tool-calling loop — file ops, code edits, terminal execution, web search, with human-in-loop approval for destructive actions.
 
 `Node.js` · `Groq` · `Vercel AI SDK` · `Telegram Bot API`
