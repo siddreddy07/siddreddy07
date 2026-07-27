@@ -25,13 +25,48 @@ I'm a fresher on paper — B.Tech CSE, Andhra University, graduated April 2025 �
 
 ## What I actually spend my time on
 
-```
-backend        →  Node.js · Express · REST APIs · JWT / OAuth2 · RBAC · Socket.io
-data            →  PostgreSQL · MongoDB · MySQL · Redis · Prisma · Drizzle · Qdrant
-ai / agents     →  LangChain · Vercel AI SDK · RAG · tool-calling · browser automation
-frontend        →  React · Next.js · React Native · Tailwind
-infra           →  AWS (EC2/S3) · Vercel · BullMQ · npm publishing
-```
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6366f1?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1e1b3a?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-a5b4fc?style=for-the-badge&logoColor=1e1b3a)
+![JWT](https://img.shields.io/badge/JWT-1e1b3a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-6366f1?style=for-the-badge&logo=auth0&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-1e1b3a?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-a5b4fc?style=for-the-badge&logo=postgresql&logoColor=1e1b3a)
+![MongoDB](https://img.shields.io/badge/MongoDB-6366f1?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1e1b3a?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-f43f5e?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1e1b3a?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-a5b4fc?style=for-the-badge&logoColor=1e1b3a)
+![Qdrant](https://img.shields.io/badge/Qdrant-f43f5e?style=for-the-badge&logoColor=white)
+
+**AI / Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1e1b3a?style=for-the-badge&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-6366f1?style=for-the-badge&logo=vercel&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-f43f5e?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-a5b4fc?style=for-the-badge&logo=googlegemini&logoColor=1e1b3a)
+![RAG](https://img.shields.io/badge/RAG-1e1b3a?style=for-the-badge&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-6366f1?style=for-the-badge&logoColor=white)
+![Browser Automation](https://img.shields.io/badge/Browser_Automation-f43f5e?style=for-the-badge&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-a5b4fc?style=for-the-badge&logo=react&logoColor=1e1b3a)
+![Next.js](https://img.shields.io/badge/Next.js-1e1b3a?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-6366f1?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-f43f5e?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Infra**
+
+![AWS](https://img.shields.io/badge/AWS_EC2%2FS3-1e1b3a?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-6366f1?style=for-the-badge&logo=vercel&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-f43f5e?style=for-the-badge&logo=redis&logoColor=white)
+![npm](https://img.shields.io/badge/npm_publishing-a5b4fc?style=for-the-badge&logo=npm&logoColor=1e1b3a)
 
 The pattern across most of what I build: take something that's normally a demo (an AI chatbot, a schema generator, a search box) and make it actually *hold up* — real auth, real rate limiting, real error handling, not just a happy-path prototype.
 
