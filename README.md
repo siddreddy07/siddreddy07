@@ -31,9 +31,9 @@
 ```yaml
 name: N. Siddharth Reddy
 handle: siddreddy07
-location: Hyderabad / Vizag, India
+location: Visakhapatnam, India
 education:
-  institute: Andhra University CoE
+  institute: Andhra University College of Engineering
   degree: B.Tech CSE
   cgpa: 7.99 | Apr 2025
 
@@ -44,11 +44,11 @@ focus:
   - Realtime Systems
 
 currently_building:
-  - Voice AI Companion App
-  - MCP Server for Twitter
+  - SIFT — multi-modal AI search assistant
+  - AI browser automation agent
 
 published:
-  npm: dbsmash (AI schema CLI)
+  npm: dbsmash (AI schema generator CLI)
 
 status: OPEN TO WORK ✦
 ```
@@ -79,13 +79,14 @@ status: OPEN TO WORK ✦
 
 **AI / LLM**
 
+![LangChain](https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-1e293b?style=flat-square&logo=vercel&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285f4?style=flat-square&logo=google&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-f54d27?style=flat-square&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6c47ff?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-ffd21e?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-8b5cf6?style=flat-square)
 ![Tool Calling](https://img.shields.io/badge/Tool_Calling-f97316?style=flat-square)
+![Browser Automation](https://img.shields.io/badge/Browser_Automation-10b981?style=flat-square)
 
 **Frontend**
 
@@ -113,8 +114,8 @@ status: OPEN TO WORK ✦
 **Backend Developer Intern** · reaidy.io, India &nbsp;·&nbsp; `Aug 2024 – Oct 2024`
 
 - Rewrote auth system — httpOnly cookies, CSRF protection, Redis rate limiting
-- Optimized MongoDB aggregation pipelines (`$group`, `$sort`, `$lookup`) for dashboard queries
-- Reduced redundant DB hits by restructuring query patterns across core endpoints
+- Optimized MongoDB aggregation pipelines (`$group`, `$lookup`) for scheduling & leaderboard queries, cutting DB round trips by 50%
+- Reduced application-level sorting by pushing ranking logic into MongoDB aggregations
 
 ---
 
@@ -124,16 +125,16 @@ status: OPEN TO WORK ✦
 <tr>
 <td width="50%" valign="top">
 
-**[🐾 Mew-Claw](https://github.com/siddreddy07/Mew-Claw)**
-Autonomous AI agent on Telegram with tool-calling loop — file ops, code edits, terminal execution, web search, with human-in-loop approval for destructive actions.
+**[🔍 SIFT](https://github.com/siddreddy07)**
+Multi-modal AI search assistant — retrieves across web, image, video, and knowledge-base sources and renders results as rich, provider-authentic UI cards, with an AI browser-automation agent underneath it.
 
-`Node.js` · `Groq` · `Vercel AI SDK` · `Telegram Bot API`
+`LangChain` · `Groq` · `React` · `Browser Automation`
 
 </td>
 <td width="50%" valign="top">
 
 **[⚡ dbSmash](https://github.com/siddreddy07/dbsmash-CLI-npm-package)** &nbsp; [![npm](https://img.shields.io/npm/v/dbsmash?color=cb3837&style=flat-square)](https://www.npmjs.com/package/dbsmash)
-Plain-English → full DB schema, models & seeders for MongoDB / Supabase / Firestore. Published on npm, used via CLI.
+Plain-English → fully initialized database. Generates schema, sets up the connection, and installs required packages for MongoDB, Firestore, or Supabase. Published on npm.
 
 `Node.js` · `Gemini` · `OpenRouter` · `CLI`
 
@@ -142,36 +143,18 @@ Plain-English → full DB schema, models & seeders for MongoDB / Supabase / Fire
 <tr>
 <td width="50%" valign="top">
 
+**[🐾 Mew-Claw](https://github.com/siddreddy07/Mew-Claw)**
+Autonomous AI agent on Telegram with multi-tool orchestration — file ops, code edits, terminal execution, web search — gated by human-in-the-loop approval before sensitive actions run.
+
+`Node.js` · `Groq (llama-3.3-70b)` · `Vercel AI SDK` · `Telegram Bot API`
+
+</td>
+<td width="50%" valign="top">
+
 **[🐦 MCP Twitter Server](https://github.com/siddreddy07/mcp-server-twitter-post)**
 MCP server exposing Twitter post capabilities as a tool — lets any LLM agent post tweets programmatically via the MCP protocol.
 
 `Node.js` · `MCP` · `Twitter API`
-
-</td>
-<td width="50%" valign="top">
-
-**[🤖 AI Chat App](https://github.com/siddreddy07/AI-Chat-App)**
-Full-stack AI chat interface with streaming responses, conversation history, and multi-model support.
-
-`Node.js` · `React` · `LLM APIs`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[📧 AI Email Buddy](https://github.com/siddreddy07/Ai-Email-Buddy)**
-AI-powered email drafting assistant that generates professional replies and cold outreach based on context.
-
-`Node.js` · `Gemini` · `React`
-
-</td>
-<td width="50%" valign="top">
-
-**[🌐 dbSmash Web](https://github.com/siddreddy07/dbsmash-WEB)**
-Web interface for dbSmash — describe your app and generate complete database schemas visually in browser.
-
-`Next.js` · `Tailwind` · `Gemini API`
 
 </td>
 </tr>
@@ -189,7 +172,7 @@ Web interface for dbSmash — describe your app and generate complete database s
 
 ### Education
 
-**B.Tech — Computer Science & Engineering**  
+**B.Tech — Computer Science & Engineering**
 Andhra University College of Engineering, Visakhapatnam &nbsp;·&nbsp; Dec 2021 – Apr 2025 &nbsp;·&nbsp; **CGPA: 7.99 / 10**
 
 `NPTEL` Database Management Systems &nbsp;&nbsp; `HackerRank` Node.js Basic
