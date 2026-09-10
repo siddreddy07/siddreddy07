@@ -112,6 +112,10 @@ Website ingestion, PDF parsing, embeddings, vector retrieval, configurable AI pr
 
 </td>
 
+<br/>
+
+[**Live ↗**](https://bsdk.siddharthreddy627.workers.dev/) · [**GitHub ↗**](https://github.com/siddreddy07/bsdk)
+
 <td width="50%" valign="top">
 
 ### 🕹️ Auto Browse
