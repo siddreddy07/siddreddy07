@@ -110,11 +110,13 @@ Website ingestion, PDF parsing, embeddings, vector retrieval, configurable AI pr
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
 ![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square)
 
-</td>
 
 <br/>
 
 [**Live ↗**](https://bsdk.siddharthreddy627.workers.dev/) · [**GitHub ↗**](https://github.com/siddreddy07/bsdk)
+
+</td>
+
 
 <td width="50%" valign="top">
 
