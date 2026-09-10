@@ -2,111 +2,63 @@
 
 # N Siddharth Reddy
 
-### I build software that can understand, automate, and act.
+**Backend Engineer · AI Systems · Developer Tools**
 
-Backend engineer working across **AI infrastructure, agents, automation, and developer tools.**
+I build backend-heavy products around AI, automation,
+real-time systems, and developer infrastructure.
 
-Currently building **BSDK** — giving any website its own AI brain.
+<br />
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://siddharth-portfolio-delta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/n-siddharth-reddy/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/siddreddy07)
+<a href="https://siddharth-portfolio-delta.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/n-siddharth-reddy/">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:siddharthreddy627@gmail.com">
+  <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+<br />
 
----
+## About
 
-## `01` / What I'm building now
+I'm a **2025 Computer Science graduate from Andhra University** who likes building the parts of software that sit underneath the interface — APIs, background jobs, data pipelines, AI agents, retrieval systems, real-time communication, and infrastructure.
+
+Most of my projects start as an experiment and end up becoming something I can actually ship.
+
+Currently exploring **backend engineering, AI systems, and developer tooling**.
+
+<br />
+
+## Selected work
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
 ### BSDK
 
-**An embeddable AI layer for the web.**
+An embeddable AI SDK that gives websites their own context-aware AI assistant.
 
-The idea is simple:
+Built the surrounding infrastructure for document ingestion, parsing, embeddings, vector retrieval, configurable AI providers, and streamed responses.
 
-> Give a website its data, connect an AI model, drop in the SDK —
-> and the website gets an AI assistant that actually understands it.
-
-I'm building the system around the widget too: document ingestion, parsing, embeddings, vector search, configurable AI providers, streaming responses, bot configuration and managed infrastructure.
-
-This is less about putting another chat bubble on a page.
-
-It's about building the infrastructure behind one.
+`TypeScript` `Node.js` `React` `MongoDB` `Pinecone` `Cohere`
 
 </td>
-<td width="35%" valign="top">
-
-```txt
-Website
-   │
-   ▼
-┌─────────────┐
-│    BSDK     │
-├─────────────┤
-│ Context     │
-│ Retrieval   │
-│ Streaming   │
-│ AI Runtime  │
-└──────┬──────┘
-       │
-       ▼
- Website AI
-```
-
-</td>
-</tr>
-</table>
-
-`TypeScript` · `Node.js` · `React` · `MongoDB` · `Pinecone` · `Cohere` · `LlamaIndex` · `SSE`
-
----
-
-## `02` / Things I've shipped
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
-### ◈ Auto Browse
+### Auto Browse
 
-**Visual AI browser automation.**
+A visual platform for building and running AI-powered browser automation workflows.
 
-Build workflows from nodes like `open`, `act`, `extract`, `observe`, `agent` and `send-email`, then run them as background jobs against real browser sessions.
+Supports background executions, AI actions, data piping between nodes, collaborative editing, and browser session replay.
 
-Includes collaborative workflow editing, execution state, per-node outputs and browser session replay.
+[Live](https://auto-browse-seven.vercel.app/) · [Source](https://github.com/siddreddy07/auto-browse)
 
-**Built with**
-
-`Next.js` `Stagehand` `Browserbase`
-`Trigger.dev` `Neon` `Drizzle` `Liveblocks`
-
-[Live ↗](https://auto-browse-seven.vercel.app/) · [Source ↗](https://github.com/siddreddy07/auto-browse)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ dbSmash
-
-**Natural language → database setup.**
-
-Describe the data your application needs and turn it into database schemas and generated code instead of starting from a blank file.
-
-Built both the visual web experience and a CLI published to npm.
-
-**Built with**
-
-`Node.js` `React` `AI` `Code Generation`
-
-[npm ↗](https://www.npmjs.com/package/dbsmash)
+`Next.js` `Stagehand` `Browserbase` `Trigger.dev` `Neon`
 
 </td>
 </tr>
@@ -114,192 +66,105 @@ Built both the visual web experience and a CLI published to npm.
 <tr>
 <td width="50%" valign="top">
 
-### ◈ InboxValid MCP
+### dbSmash
 
-**Email verification exposed as an MCP tool.**
+Turn natural-language requirements into database schemas and generated code.
 
-A small MCP server that lets agents verify emails through a structured `verify_email` tool with MX, disposable-domain and retry handling.
+Built as both a visual ER experience and a CLI published to npm.
+
+[npm](https://www.npmjs.com/package/dbsmash)
+
+`Node.js` `React` `Gemini` `CLI`
+
+</td>
+<td width="50%" valign="top">
+
+### InboxValid MCP
+
+An MCP server exposing email verification as a tool for AI agents.
+
+Handles MX validation, disposable domains, structured verification results, and retries.
+
+[Source](https://github.com/siddreddy07/InboxValid-MCP-Server)
 
 `Node.js` `TypeScript` `MCP`
 
-[Source ↗](https://github.com/siddreddy07/InboxValid-MCP-Server)
-
-</td>
-
-<td width="50%" valign="top">
-
-### ◈ Personal AI Agent
-
-**RAG + tools + realtime interaction.**
-
-Built an agent architecture around document ingestion, vector retrieval, tool execution, background jobs and streamed responses.
-
-`Vercel AI SDK` `Qdrant` `BullMQ`
-`PostgreSQL` `SSE` `React Native`
-
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## `03` / The kind of engineering I like
+## Stack
 
-```text
-                          ┌─────────────────┐
-                          │      IDEA       │
-                          └────────┬────────┘
-                                   │
-                    ┌──────────────▼──────────────┐
-                    │       PRODUCT SYSTEM        │
-                    └──────────────┬──────────────┘
-                                   │
-           ┌───────────────────────┼───────────────────────┐
-           │                       │                       │
-           ▼                       ▼                       ▼
-      BACKEND                 AI SYSTEMS              REALTIME
-   APIs · Auth             RAG · Agents           SSE · Sockets
-   Queues · Jobs           Tool Calling           Collaboration
-   Databases               Embeddings             Event Streams
-           │                       │                       │
-           └───────────────────────┼───────────────────────┘
-                                   ▼
-                              SHIP IT.
-```
+**Backend**
 
-I gravitate toward projects where the interesting part isn't only the interface.
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square\&logo=typescript\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-18181B?style=flat-square\&logo=express\&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-18181B?style=flat-square\&logo=socket.io\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square\&logo=redis\&logoColor=white)
 
-It's the machinery underneath it — **APIs, workers, queues, data pipelines, retrieval, tools, streaming, state and all the failure cases between them.**
+**Data**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=flat-square\&logo=mongodb\&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-18181B?style=flat-square\&logo=drizzle\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-18181B?style=flat-square\&logo=prisma\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-18181B?style=flat-square\&logo=qdrant\&logoColor=white)
 
-## `04` / My toolbox
+**AI**
 
-<table>
-<tr>
-<td><b>Runtime</b></td>
-<td>
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-18181B?style=flat-square\&logo=vercel\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-18181B?style=flat-square\&logo=googlegemini\&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-18181B?style=flat-square\&logo=pinecone\&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-18181B?style=flat-square\&logo=cohere\&logoColor=white)
 
-`Node.js` · `TypeScript` · `JavaScript`
+**Frontend & Infrastructure**
 
-</td>
-</tr>
+![React](https://img.shields.io/badge/React-18181B?style=flat-square\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square\&logo=next.js\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-18181B?style=flat-square\&logo=amazonwebservices\&logoColor=white)
 
-<tr>
-<td><b>Backend</b></td>
-<td>
+<br />
 
-`Express` · `REST` · `JWT` · `OAuth` · `Socket.io` · `SSE` · `BullMQ`
+## Experience
 
-</td>
-</tr>
+**MERN Stack Developer Intern · TEN**
+`Jan 2025 — May 2025`
 
-<tr>
-<td><b>Data</b></td>
-<td>
+Worked across an HRMS backend and React e-commerce application, building APIs, access control, validation middleware, attendance flows, cart, wishlist, and filtering.
 
-`PostgreSQL` · `MongoDB` · `Redis` · `Neon` · `Drizzle` · `Prisma`
+**Backend Developer Intern · reaidy.io**
+`Aug 2024 — Oct 2024`
 
-</td>
-</tr>
+Worked on Express and MongoDB backend systems including leaderboard aggregation, interview scheduling, authentication, and API improvements.
 
-<tr>
-<td><b>AI</b></td>
-<td>
+<br />
 
-`Vercel AI SDK` · `LangChain` · `Gemini` · `Groq` · `RAG` · `Qdrant` · `Pinecone` · `Cohere`
-
-</td>
-</tr>
-
-<tr>
-<td><b>Web</b></td>
-<td>
-
-`React` · `Next.js` · `Tailwind CSS` · `shadcn/ui`
-
-</td>
-</tr>
-
-<tr>
-<td><b>Systems</b></td>
-<td>
-
-`Docker` · `AWS EC2` · `Vercel` · `Trigger.dev` · `Browserbase` · `Liveblocks`
-
-</td>
-</tr>
-</table>
-
----
-
-## `05` / How I got here
-
-```text
-2024
- │
- ├── Backend Developer Intern · reaidy.io
- │
-2025
- │
- ├── B.Tech CSE · Andhra University
- ├── MERN Stack Developer Intern · TEN
- ├── dbSmash
- │      └── Web + npm CLI
- │
-2026
- │
- ├── Personal AI Agent
- ├── Collaborative Editor
- ├── Auto Browse
- ├── InboxValid MCP
- │
- └── BSDK                              ← now
-```
-
-A lot of these projects started the same way:
-
-**“I wonder if I can build that.”**
-
-Then the prototype needed auth.
-
-Then a database.
-
-Then queues.
-
-Then streaming.
-
-Then retries.
-
-And suddenly it was a product.
-
----
-
-## `06` / A little GitHub telemetry
+## GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddreddy07&hide_border=true&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&hide_border=true&bg_color=00000000&title_color=71717a&text_color=71717a&icon_color=71717a" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=siddreddy07&hide_border=true&background=00000000&ring=71717a&fire=71717a&currStreakLabel=71717a&sideLabels=71717a&dates=71717a" />
 
 </div>
 
+<br />
+
 ---
 
 <div align="center">
 
-### I'm looking for the place where I can build the next hard thing.
+**Building things. Breaking things. Learning why. Building them better.**
 
-Backend · AI Engineering · Developer Tools · Automation
+<sub>Visakhapatnam, India · Open to backend / AI engineering opportunities</sub>
 
-I'm a **2025 Computer Science graduate from Andhra University**, currently based in India and looking for my first full-time engineering role.
+<br /><br />
 
-<br/>
-
-[**GitHub**](https://github.com/siddreddy07) · [**Portfolio**](https://siddharth-portfolio-delta.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/n-siddharth-reddy/)
-
-<br/>
-
-<sub>build → break → understand → rebuild → ship</sub>
+[Portfolio](https://siddharth-portfolio-delta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/n-siddharth-reddy/) · [GitHub](https://github.com/siddreddy07)
 
 </div>
