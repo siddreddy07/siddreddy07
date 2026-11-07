@@ -260,25 +260,6 @@ Turns plain-English application ideas into database schemas through an iterative
 
 </div>
 
----
-
-## ◈ CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddreddy07/siddreddy07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
-
-</div>
-
----
-
-## ◈ GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddreddy07&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-
-</div>
 
 ---
 
