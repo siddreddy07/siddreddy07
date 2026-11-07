@@ -256,8 +256,6 @@ Turns plain-English application ideas into database schemas through an iterative
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=020617&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=4C1D95&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
-
 </div>
 
 
