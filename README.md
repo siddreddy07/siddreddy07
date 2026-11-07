@@ -1,238 +1,214 @@
- <div align="center">
+<div align="center">
 
-<!-- HERO -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6D28D9&height=220&section=header&text=SIDDHARTH%20REDDY&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20%7C%20Full%20Stack%20%7C%20AI%20Engineering&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1E1B4B,75:4C1D95,100:0E7490&height=260&section=header&text=SIDDHARTH%20REDDY&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=BACKEND%20%C2%B7%20FULL%20STACK%20%C2%B7%20AI%20ENGINEERING&descSize=16&descAlignY=58&descColor=A5B4FC&animation=twinkling" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=8B9CF7&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;Backend-first+Full-Stack+Developer.;Exploring+AI+systems+%26+developer+tools.;Turning+ideas+into+shipped+products." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<a href="https://siddharth-portfolio-delta.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/n-siddharth-reddy/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/siddreddy07">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=700&height=40&lines=%3E+Building+things+that+actually+work.;%3E+Backend-first.+Full-stack+when+it+counts.;%3E+RAG+pipelines+%C2%B7+agents+%C2%B7+developer+tools.;%3E+Turning+ideas+into+shipped+products." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=siddreddy07&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
+<a href="https://siddharth-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/n-siddharth-reddy/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/siddreddy07"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://bsdk.siddharthreddy627.workers.dev/"><img src="https://img.shields.io/badge/LIVE_PROJECT-0E7490?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-## `01` / ABOUT
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
 
-I'm a backend-first full-stack developer interested in building useful products and understanding the engineering behind them.
+<br/>
 
-My work revolves around **Node.js, TypeScript, databases, distributed application workflows, and AI-powered systems.**
+## ◈ &nbsp;TRANSMISSION
 
-I enjoy working across the stack, but I'm particularly interested in backend architecture, API design, data retrieval, system reliability, and developer-focused tools.
+> **I build backends that hold up, and the products that sit on top of them.**
 
-- Building and shipping independent products.
-- Exploring LLM applications, RAG pipelines, and agentic workflows.
-- Working with databases, caching, queues, and API integrations.
-- Learning through implementation, experimentation, and solving actual engineering problems.
+I'm a backend-first full-stack developer. I like the part of a product you don't see: API design, data retrieval, queues, caching, and the reliability work that keeps it all running. Lately that means **LLM applications, RAG pipelines and agentic workflows**, shipped as real products rather than demos.
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `02` / TECHNICAL ARSENAL
+**▸ Currently**
+- Shipping independent products
+- Building RAG + tool-calling systems
+- Designing SDKs other developers can drop in
+
+</td>
+<td width="50%" valign="top">
+
+**▸ Principles**
+- Learn by implementation
+- Solve real engineering problems
+- Ship, then iterate
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
+
+<br/>
+
+## ◈ &nbsp;STACK
 
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
-
-### BACKEND & API DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `OAuth` · `RBAC` · `WebSockets` · `Streaming` · `BullMQ`
-
-### FRONTEND & UI
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
-
-`React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` · `Responsive UI`
-
-### DATABASES & DATA LAYER
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
-
-`PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `Drizzle ORM` · `Vector Databases`
-
-### AI & GENERATIVE AI
-
-<img src="https://skillicons.dev/icons?i=graphql&theme=dark" />
-
-`LLM Applications` · `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Tool Calling` · `Prompt Engineering` · `Vercel AI SDK` · `LangChain`
-
-### DEVOPS & DEVELOPER TOOLS
-
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,postman,vite&theme=dark" />
-
-`Docker` · `AWS` · `Git` · `GitHub` · `Postman` · `Vercel` · `npm` · `pnpm`
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,nextjs,tailwind,html,css&theme=dark&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,aws,git,github,vercel,postman,vite&theme=dark&perline=11" />
 
 </div>
 
----
+<br/>
 
-## `03` / SELECTED BUILDS
+| Layer | What I work with |
+|:--|:--|
+| **Backend** | `Node.js` · `Express` · `REST` · `JWT` · `OAuth` · `RBAC` · `WebSockets` · `Streaming` · `BullMQ` |
+| **Frontend** | `React` · `Next.js` · `Tailwind CSS` · `shadcn/ui` |
+| **Data** | `PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `Drizzle ORM` · `Vector DBs` |
+| **AI** | `RAG` · `Embeddings` · `Vector Search` · `AI Agents` · `Tool Calling` · `Vercel AI SDK` · `LangChain` |
+| **Ship** | `Docker` · `AWS` · `Vercel` · `GitHub` · `pnpm` · `Postman` |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
+
+<br/>
+
+## ◈ &nbsp;FLAGSHIP
 
 <div align="center">
 
-### ⚡ BSDK — THE CHAT SDK FOR AI-NATIVE WEBSITES
+# ⚡ BSDK
 
-<a href="https://bsdk.siddharthreddy627.workers.dev/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-7C3AED?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</a>
-<a href="https://bsdk.siddharthreddy627.workers.dev/try">
-<img src="https://img.shields.io/badge/TRY_PLAYGROUND-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
+### The chat SDK for AI-native websites
+
+*An embeddable AI chat widget that answers visitor questions from a site's own content.*
+
+<br/>
+
+<a href="https://bsdk.siddharthreddy627.workers.dev/"><img src="https://img.shields.io/badge/VIEW_LIVE-6D28D9?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+<a href="https://bsdk.siddharthreddy627.workers.dev/try"><img src="https://img.shields.io/badge/TRY_THE_PLAYGROUND-0E7490?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
-An embeddable AI chat widget that lets websites answer visitor questions using their own content.
+<br/>
 
-**What's under the hood?**
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1E1B4B','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6D28D9','lineColor':'#22D3EE','secondaryColor':'#0E7490','tertiaryColor':'#020617','fontFamily':'monospace'}}}%%
+flowchart LR
+    V([Visitor]) --> W["Chat Widget<br/>React 19 · Tailwind 4 · shadcn/ui"]
+    W -- streaming --> S["Server Runtime<br/>Express 5 · tool orchestration"]
+    S --> R["Retrieval"]
+    R --> P[("Pinecone<br/>vector search")]
+    S --> M{{"Model Router<br/>Groq · Gemini · OpenAI · Anthropic"}}
+    D["Site content"] --> I["Ingestion<br/>chunk → Cohere embeddings"]
+    I --> P
+```
 
-| Component | Implementation |
-|---|---|
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**▸ Architecture**
+
+| | |
+|:--|:--|
 | Monorepo | pnpm + Turborepo |
-| UI SDK | React 19, Tailwind CSS 4, shadcn/ui |
-| Server runtime | Streaming, retrieval & tool orchestration |
-| Knowledge pipeline | Document ingestion, chunking & embeddings |
-| Vector search | Pinecone |
-| Embeddings | Cohere |
+| UI SDK | React 19, Tailwind 4, shadcn/ui |
+| Runtime | Streaming, retrieval, tools |
+| Knowledge | Ingestion, chunking, embeddings |
+| Vectors | Pinecone + Cohere |
 | Models | Groq, Gemini, OpenAI, Anthropic |
-| Integration | Vercel AI SDK-compatible models |
-| API & Playground | Express 5 + MongoDB |
+| API | Express 5 + MongoDB |
 
-**Things I worked on:**
-- Building an embeddable chat experience.
-- Creating a streaming backend runtime.
-- Implementing document-based retrieval for website knowledge.
-- Integrating tools and multiple model providers.
-- Separating UI, server runtime, CLI, and playground into packages.
+</td>
+<td width="50%" valign="top">
 
----
+**▸ What I built**
+- An embeddable chat experience
+- A streaming backend runtime
+- Document retrieval over a site's own knowledge
+- Tool integration across multiple model providers
+- Clean package split: UI, server runtime, CLI, playground
+- Compatibility with Vercel AI SDK models
 
-<div align="center">
-
-### 🔍 INTELLIGENT LOG ANALYZER & ALERT GENERATOR
-
-<a href="https://github.com/siddreddy07/Intelligent-log-analyzer">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br/>
-<sub>Base14 Product Engineer — Take-home assignment</sub>
-
-</div>
-
-A log analysis and alert generation system designed to identify meaningful patterns in application logs and reduce noisy alerts.
-
-**Engineering focus:**
-
-- Multi-format log parsing with TypeScript.
-- Pattern detection and error-rate analysis.
-- Finding grouping and incident correlation.
-- Alert generation with probable causes and supporting evidence.
-- Configurable detection windows and thresholds.
-- Noise reduction through grouping and deduplication.
-
-**Stack:** `Node.js` · `TypeScript` · `Express` · `YAML`
-
----
-
-## `04` / GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B9CF7&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=donut&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=siddreddy07&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
-## `05` / CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddreddy07/siddreddy07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
-
-</div>
-
----
-
-## `06` / GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddreddy07&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-
-</div>
-
----
-
-## `07` / WHAT I'M EXPLORING
-
-| Area | Current interests |
-|---|---|
-| Backend Engineering | API architecture, scalability, queues, caching |
-| AI Engineering | RAG, agent workflows, tool orchestration |
-| Data Systems | Redis, PostgreSQL, MongoDB, vector search |
-| Developer Experience | SDKs, reusable packages, CLI tooling |
-| System Design | Reliability, observability, distributed workflows |
-
----
-
-## `08` / FIND ME AROUND THE WEB
-
-<div align="center">
-
-<a href="https://github.com/siddreddy07">
-<img src="https://img.shields.io/badge/GitHub-siddreddy07-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/n-siddharth-reddy/">
-<img src="https://img.shields.io/badge/LinkedIn-Siddharth_Reddy-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://siddharth-portfolio-delta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-My_Work-7C3AED?style=for-the-badge&logo=vercel" />
-</a>
-
-</div>
-
-<div align="center">
+</td>
+</tr>
+</table>
 
 <br/>
 
-### BUILDING IS THE BEST WAY TO LEARN.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,50:6D28D9,100:4C1D95&height=2" width="100%" />
 
-*Curiosity → Code → Experiments → Better Systems.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
+<div align="center">
+
+# 🔍 Intelligent Log Analyzer
+
+### Fewer alerts. Better alerts.
+
+*Base14 Product Engineer take-home assignment*
+
+<a href="https://github.com/siddreddy07/Intelligent-log-analyzer"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-0F172A?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</div>
+
+<br/>
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1E1B4B','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6D28D9','lineColor':'#22D3EE','fontFamily':'monospace'}}}%%
+flowchart LR
+    L["Raw logs<br/>multiple formats"] --> P["Parser<br/>TypeScript"]
+    P --> D["Pattern + error-rate<br/>detection"]
+    D --> G["Grouping<br/>dedup + correlation"]
+    G --> A["Alerts<br/>probable cause + evidence"]
+```
+
+A log analysis and alert generation system that finds meaningful patterns in application logs and cuts alert noise.
+
+- **Parse** multiple log formats with TypeScript
+- **Detect** patterns and error-rate spikes across configurable windows and thresholds
+- **Correlate** related findings into incidents
+- **Reduce noise** through grouping and deduplication
+- **Explain** every alert with probable causes and supporting evidence
+
+`Node.js` · `TypeScript` · `Express` · `YAML`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
+
+<br/>
+
+## ◈ &nbsp;EXPLORING
+
+| Area | Focus |
+|:--|:--|
+| 🛠 **Backend Engineering** | API architecture, scalability, queues, caching |
+| 🤖 **AI Engineering** | RAG, agent workflows, tool orchestration |
+| 🗄 **Data Systems** | Redis, PostgreSQL, MongoDB, vector search |
+| 📦 **Developer Experience** | SDKs, reusable packages, CLI tooling |
+| 🧭 **System Design** | Reliability, observability, distributed workflows |
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/siddreddy07"><img src="https://img.shields.io/badge/GitHub-siddreddy07-0F172A?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/in/n-siddharth-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Siddharth_Reddy-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://siddharth-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-My_Work-6D28D9?style=for-the-badge&logo=vercel" /></a>
+
+<br/><br/>
+
+**`Curiosity  →  Code  →  Experiments  →  Better Systems`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,40:4C1D95,75:1E1B4B,100:020617&height=140&section=footer&animation=twinkling" width="100%" />
 
 </div>
