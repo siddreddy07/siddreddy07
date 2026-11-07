@@ -1,74 +1,62 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1E1B4B,70:4C1D95,100:0E7490&height=270&section=header&text=N%20SIDDHARTH%20REDDY&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20BACKEND%20%26%20AI%20APPLICATIONS&descSize=16&descAlignY=58&descColor=A5B4FC&animation=twinkling" width="100%" alt="N Siddharth Reddy" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:1E1B4B,70:4C1D95,100:0E7490&height=250&section=header&text=N%20SIDDHARTH%20REDDY&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20BACKEND%20SYSTEMS%20%7C%20AI%20APPLICATIONS&descSize=15&descAlignY=58&descColor=A5B4FC&animation=twinkling" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=A5B4FC&center=true&vCenter=true&width=760&height=40&lines=%3E+AI+agents+%C2%B7+RAG+%C2%B7+browser+automation;%3E+Backend-first.+Shipped+to+production.;%3E+Developer+tools+people+can+%60npm+install%60.;%3E+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL+%C2%B7+MongoDB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=800&color=A5B4FC&center=true&vCenter=true&width=750&height=45&lines=Building+products%2C+not+just+projects.;Backend-first.+Full-stack+by+design.;AI+agents+%C2%B7+RAG+%C2%B7+Browser+Automation;Developer+tools+%C2%B7+SDKs+%C2%B7+APIs" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://siddharth-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/n-siddharth-reddy/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:siddharthreddy627@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0E7490?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.npmjs.com/package/dbsmash"><img src="https://img.shields.io/badge/NPM-dbsmash-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
-
-<br/>
-
-## ◈ &nbsp;MISSION BRIEF
-
-> **I build the systems behind AI products: agents, retrieval pipelines and the backends that keep them reliable.**
-
-Full Stack Developer working with **React, Next.js, Node.js, PostgreSQL and MongoDB**. I've shipped web applications through two internships and my own projects. My recent work centers on **AI agents, RAG, browser automation and developer tools**.
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="16%"><h2>5</h2><sub><b>AI PRODUCTS<br/>BUILT</b></sub></td>
-<td align="center" width="16%"><h2>2</h2><sub><b>ENGINEERING<br/>INTERNSHIPS</b></sub></td>
-<td align="center" width="16%"><h2>4</h2><sub><b>LLM PROVIDERS<br/>INTEGRATED</b></sub></td>
-<td align="center" width="16%"><h2>3</h2><sub><b>DATABASES<br/>AUTOMATED</b></sub></td>
-<td align="center" width="16%"><h2>1</h2><sub><b>PACKAGE<br/>ON NPM</b></sub></td>
-<td align="center" width="16%"><h2>7.99</h2><sub><b>B.TECH<br/>CGPA / 10</b></sub></td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=siddreddy07&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
+## ◈ ABOUT
 
-<br/>
+Full Stack Developer focused on **backend development, web applications, and AI-powered products**.
 
-## ◈ &nbsp;FLAGSHIP PROJECTS
+I work primarily with TypeScript, Node.js, React, Next.js, PostgreSQL and MongoDB. My recent projects explore browser automation, AI agents, retrieval systems, developer tooling and reusable SDKs.
+
+I've worked across two engineering internships and independently built and shipped multiple products.
+
+---
+
+## ◈ PROJECTS
 
 <div align="center">
+
+### SELECTED WORKS · 2024 — 2026
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 Auto Browse
+
 **AI Browser Automation Platform**
 
-<a href="https://auto-browse-seven.vercel.app/"><img src="https://img.shields.io/badge/LIVE-6D28D9?style=flat-square&logo=vercel&logoColor=white" /></a> <a href="https://github.com/siddreddy07/auto-browse"><img src="https://img.shields.io/badge/CODE-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://auto-browse-seven.vercel.app/"><img src="https://img.shields.io/badge/LIVE-6D28D9?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/siddreddy07/auto-browse"><img src="https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-A visual workflow engine where browser tasks become executable graphs.
+A visual workflow engine that turns browser tasks into executable graphs.
 
-- Action, observation, extraction and **agent-driven** step types
-- Cloud browser execution on **Stagehand + Browserbase**, orchestrated by **Trigger.dev**
+- Visual workflow builder using React Flow
+- Browser execution through Stagehand and Browserbase
+- Trigger.dev-based orchestration
 - Output-to-input token piping between steps
-- **Replayable** sessions
+- Replayable browser sessions
 
 `Next.js` `React Flow` `Stagehand` `Browserbase` `Trigger.dev` `Neon` `Drizzle` `Clerk` `Liveblocks`
 
@@ -76,16 +64,19 @@ A visual workflow engine where browser tasks become executable graphs.
 <td width="50%" valign="top">
 
 ### ⚡ BSDK
+
 **Embeddable AI Chat SDK**
 
-<a href="https://bsdk.siddharthreddy627.workers.dev"><img src="https://img.shields.io/badge/LIVE-6D28D9?style=flat-square&logo=cloudflare&logoColor=white" /></a> <a href="https://bsdk.siddharthreddy627.workers.dev/try"><img src="https://img.shields.io/badge/PLAYGROUND-0E7490?style=flat-square&logo=googlechrome&logoColor=white" /></a> <a href="https://github.com/siddreddy07/BSDK"><img src="https://img.shields.io/badge/CODE-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://bsdk.siddharthreddy627.workers.dev"><img src="https://img.shields.io/badge/LIVE-6D28D9?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+<a href="https://bsdk.siddharthreddy627.workers.dev/try"><img src="https://img.shields.io/badge/PLAYGROUND-0E7490?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/siddreddy07/BSDK"><img src="https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-A drop-in chat widget that answers visitor questions from a site's own content.
+A drop-in chat widget that answers website visitors using the website's own content.
 
-- Website and **document-grounded** responses
-- Ingestion → parsing → embeddings → vector search → **streamed** answers
-- Works across Groq, Gemini, OpenAI and Anthropic models
-- pnpm + Turborepo monorepo: UI, runtime, CLI, playground
+- Document ingestion and knowledge retrieval
+- Streaming chat backend and runtime
+- Tool integrations and model provider flexibility
+- Monorepo with UI, server, CLI and playground packages
 
 `TypeScript` `React` `Node.js` `Vercel AI SDK` `Cohere` `Pinecone` `Cloudflare`
 
@@ -95,33 +86,37 @@ A drop-in chat widget that answers visitor questions from a site's own content.
 <td width="50%" valign="top">
 
 ### 🔎 SIFT
+
 **Multimodal AI Search**
 
-<a href="https://github.com/siddreddy07/SIFT---AI-Search"><img src="https://img.shields.io/badge/CODE-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/siddreddy07/SIFT---AI-Search"><img src="https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-A multimodal RAG pipeline that answers questions from PDFs, images and web content.
+A multimodal retrieval pipeline for searching and answering questions across PDFs, images and web content.
 
-- Parsing, chunking, embeddings and vector indexing
-- **Metadata-aware retrieval**
-- **Source traceability** on every answer
+- Content parsing and chunking
+- Embeddings and vector indexing
+- Metadata-aware retrieval
+- Source traceability in generated answers
 
-`LlamaIndex` `LlamaParse` `Cohere Embeddings` `Pinecone` `Node.js`
+`Node.js` `LlamaIndex` `LlamaParse` `Cohere` `Pinecone`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🦀 Mew-Claw
+
 **Tool-Using AI Agent**
 
-<a href="https://github.com/siddreddy07/Mew-Claw"><img src="https://img.shields.io/badge/CODE-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/siddreddy07/Mew-Claw"><img src="https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-An agent that routes dynamically across file ops, code editing, terminal, web search and external actions.
+A tool-using agent that can work across files, code, terminal commands, web search and external actions.
 
-- **Human-in-the-loop approval** for sensitive tools
-- Explicit confirmation before any terminal command or external action
-- Reachable through a Telegram bot
+- Dynamic tool selection
+- Human approval for sensitive operations
+- Explicit confirmation before terminal commands
+- Telegram bot integration
 
-`Node.js` `Express` `Groq` `Vercel AI SDK` `Telegram Bot API`
+`Node.js` `Express` `Groq` `Vercel AI SDK` `Telegram API`
 
 </td>
 </tr>
@@ -129,109 +124,182 @@ An agent that routes dynamically across file ops, code editing, terminal, web se
 <td colspan="2" valign="top">
 
 ### 🧬 dbSmash
-**AI Database Design CLI** &nbsp; <a href="https://www.npmjs.com/package/dbsmash"><img src="https://img.shields.io/badge/NPM-PUBLISHED-CB3837?style=flat-square&logo=npm&logoColor=white" /></a> <a href="https://github.com/siddreddy07"><img src="https://img.shields.io/badge/CODE-0F172A?style=flat-square&logo=github&logoColor=white" /></a>
 
-Turns a plain-English app idea into a refined database schema through a conversation.
+**AI-Powered Database Design CLI**
 
-- Iterative schema refinement with **AI-driven critique**
-- **Mermaid visualization** of the generated design
-- Automated **model, seed and database initialization** across **MongoDB, Firestore and Supabase**
+<a href="https://www.npmjs.com/package/dbsmash"><img src="https://img.shields.io/badge/NPM-PUBLISHED-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
+<a href="https://github.com/siddreddy07"><img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-`Node.js` `CLI` `LLM Tooling` `Mermaid` `MongoDB` `Firestore` `Supabase`
+Turns plain-English application ideas into database schemas through an iterative conversation.
+
+- AI-assisted schema generation and refinement
+- Schema visualization using Mermaid
+- Model and seed generation
+- Database initialization across MongoDB, Firestore and Supabase
+
+`Node.js` `CLI` `LLM Tool Calling` `Mermaid` `MongoDB` `Firestore` `Supabase`
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
+## ◈ EXPERIENCE
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
+<table>
+<tr>
+<td width="30%">
 
-<br/>
+**MERN Stack Developer Intern**
 
-## ◈ &nbsp;EXPERIENCE
+[TEN](https://www.entrepreneurshipnetwork.net/)
 
-| Role | Company | Period | Stack |
-|:--|:--|:--|:--|
-| **MERN Stack Developer Intern** | [TEN](https://www.entrepreneurshipnetwork.net/) · India | `Jan 2025 – May 2025` | `React` `Node.js` `Express` `MongoDB` |
-| **Backend Developer Intern** | [reaidy.io](https://www.reaidy.io/) · India | `Aug 2024 – Oct 2024` | `Node.js` `MongoDB` `Express` |
+<sub>Jan 2025 – May 2025</sub>
 
-<details open>
-<summary><b>▸ What I shipped at TEN</b></summary>
-<br/>
+</td>
+<td>
 
-| Area | Contribution |
-|:--|:--|
-| **HRMS APIs** | Employee onboarding, role assignment and access-control workflows |
-| **Backend quality** | Reusable request-validation middleware with standardized error handling across modules |
-| **Frontend** | Shopping cart, wishlist and product filtering in React.js |
+- Developed HRMS APIs for employee onboarding, role assignment and access control.
+- Built reusable request-validation middleware and standardized error handling.
+- Implemented shopping cart, wishlist and product filtering features in React.
 
-</details>
+**Stack:** React · Node.js · Express · MongoDB
 
-<details open>
-<summary><b>▸ What I shipped at reaidy.io</b></summary>
-<br/>
+</td>
+</tr>
+<tr>
+<td width="30%">
 
-| Area | Contribution |
-|:--|:--|
-| **Leaderboard API** | MongoDB aggregation pipelines moved sorting and ranking from the app layer into the database |
-| **Query efficiency** | Interview-scheduling queries consolidated into aggregation pipelines, cutting database round trips |
-| **Security** | Auth migrated to `httpOnly` cookies with CSRF validation, plus Redis-backed rate limiting |
+**Backend Developer Intern**
 
-</details>
+[reaidy.io](https://www.reaidy.io/)
 
-<br/>
+<sub>Aug 2024 – Oct 2024</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
+</td>
+<td>
 
-<br/>
+- Built MongoDB aggregation pipelines for leaderboard ranking and sorting.
+- Optimized interview-scheduling queries to reduce database round trips.
+- Implemented HTTP-only cookie authentication, CSRF validation and Redis-backed rate limiting.
 
-## ◈ &nbsp;TECH ARSENAL
+**Stack:** Node.js · Express · MongoDB · Redis
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,react,nextjs,tailwind&theme=dark&perline=7" />
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma,aws,git,github,postman,npm&theme=dark&perline=10" />
+---
 
-</div>
-
-<br/>
-
-| Domain | Tools |
-|:--|:--|
-| **Backend** | `Node.js` `Express.js` `REST APIs` `JWT` `OAuth 2.0` `RBAC` `Redis` `BullMQ` |
-| **AI & LLM** | `RAG` `Embeddings` `Vector Search` `LLM Tool Calling` `LangChain` `Vercel AI SDK` |
-| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `Prisma` `Drizzle ORM` |
-| **Frontend** | `React.js` `Next.js` `Tailwind CSS` |
-| **Cloud & Tools** | `AWS` `Git` `GitHub` `npm` `Postman` |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:6D28D9,100:0E7490&height=2" width="100%" />
-
-<br/>
-
-## ◈ &nbsp;EDUCATION
-
-| Degree | Institution | Period | CGPA |
-|:--|:--|:--|:--|
-| **B.Tech, Computer Science & Engineering** | Andhra University College of Engineering, Visakhapatnam | `Dec 2021 – Apr 2025` | **7.99 / 10** |
-
-<br/>
+## ◈ TECH STACK
 
 <div align="center">
 
-<a href="https://siddharth-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-My_Work-6D28D9?style=for-the-badge&logo=vercel" /></a>
-<a href="https://www.linkedin.com/in/n-siddharth-reddy/"><img src="https://img.shields.io/badge/LinkedIn-Siddharth_Reddy-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:siddharthreddy627@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-0E7490?style=for-the-badge&logo=gmail" /></a>
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
+
+**BACKEND & FRAMEWORKS**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" />
+
+**DATABASES & ORM**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" />
+
+**INFRASTRUCTURE & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,postman,npm&theme=dark" />
+
+</div>
+
+<details>
+<summary><b>Full technology breakdown</b></summary>
+
+| Category | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript |
+| Backend | Node.js, Express.js, REST APIs, JWT, OAuth 2.0, RBAC |
+| Architecture | Streaming, WebSockets, Middleware, API Design |
+| Queues & Caching | Redis, BullMQ |
+| Frontend | React, Next.js, Tailwind CSS, shadcn/ui |
+| Databases | PostgreSQL, MongoDB, MySQL |
+| ORMs | Prisma, Drizzle ORM |
+| AI Applications | RAG, Embeddings, Vector Search, Tool Calling, LangChain, Vercel AI SDK |
+| Vector Databases | Pinecone |
+| Cloud & DevOps | AWS, Docker, Cloudflare, Vercel |
+| Developer Tools | Git, GitHub, npm, pnpm, Postman |
+
+</details>
+
+---
+
+## ◈ GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/siddreddy07">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+</a>
+<a href="https://github.com/siddreddy07">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=donut&langs_count=8&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=C9D1D9" />
+</a>
 
 <br/><br/>
 
-**`Curiosity  →  Code  →  Experiments  →  Better Systems`**
+<img width="85%" src="https://streak-stats.demolab.com?user=siddreddy07&theme=transparent&hide_border=true&background=020617&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,35:4C1D95,70:1E1B4B,100:020617&height=140&section=footer&animation=twinkling" width="100%" />
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddreddy07&bg_color=020617&color=C9D1D9&line=8B5CF6&point=22D3EE&area=true&area_color=4C1D95&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" />
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/siddreddy07/siddreddy07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## ◈ GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=siddreddy07&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
+
+</div>
+
+---
+
+## ◈ EDUCATION
+
+**B.Tech — Computer Science and Engineering**
+
+Andhra University College of Engineering, Visakhapatnam
+
+`December 2021 – April 2025` · **CGPA: 7.99 / 10**
+
+---
+
+<div align="center">
+
+<a href="https://siddharth-portfolio-delta.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/n-siddharth-reddy/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:siddharthreddy627@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-0E7490?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,35:4C1D95,70:1E1B4B,100:020617&height=130&section=footer" width="100%" />
 
 </div>
