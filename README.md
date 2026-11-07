@@ -1,106 +1,226 @@
 <div align="center">
 
-<br/>
-
 # Siddharth Reddy
 
 **I build the things behind the interface.**
 
-<sub>Backend systems &nbsp;·&nbsp; AI products &nbsp;·&nbsp; Agents &nbsp;·&nbsp; Automation &nbsp;·&nbsp; Developer tools</sub>
+Backend systems · AI products · Agents · Automation · Developer tools
 
-<br/>
-
-[Portfolio](https://siddharth-portfolio-delta.vercel.app/) &nbsp;/&nbsp; [LinkedIn](https://www.linkedin.com/in/n-siddharth-reddy/) &nbsp;/&nbsp; [npm](https://www.npmjs.com/package/dbsmash) &nbsp;/&nbsp; [Email](mailto:siddharthreddy627@gmail.com)
-
-<br/>
+[Work](#selected-work) · [What I build](#what-i-build) · [Behind one request](#behind-one-request) · [Path](#path) · [Stack](#stack) · [Say hello](#say-hello)
 
 </div>
 
----
+> [!NOTE]
+> **Now.** 2025 CSE graduate from Andhra University, based in India. Building agents, automation and developer tools, and usually one side project deep.
 
-### How most of my projects start
+<br>
 
-```text
-idea
- └── api ................ needs auth
-      └── queue ......... the task takes too long
-           └── sse ...... the UI needs live updates
-                └── rag . the AI needs context
-                         → ingestion pipeline + vector database
-```
+## Selected work
 
-I like the point where a simple product idea turns into a real system, and I tend to stay for everything that happens after it does.
+Four things I shipped. Open any card to see how it works.
 
-I'm a backend-focused engineer and a 2025 CSE graduate of Andhra University, based in India. Most of my work sits between backend engineering, AI, automation and developer tooling. I use AI where it helps, and I like shipping things.
+### [BSDK](https://github.com/siddreddy07/bsdk)
 
----
+*Give any website its own AI brain.* &nbsp;`SHIPPED`
 
-### Selected work
+An embeddable AI SDK backed by the infrastructure that makes website AI actually useful: website ingestion, PDF parsing, embeddings, vector retrieval, configurable AI providers, streaming responses and a customizable chat SDK.
 
-| | |
-|:--|:--|
-| **[BSDK](https://github.com/siddreddy07/bsdk)** &nbsp;<sub>[live](https://bsdk.siddharthreddy627.workers.dev/)</sub><br/><sub>Embeddable AI SDK</sub> | Gives any website its own AI. Website ingestion, PDF parsing, embeddings, vector retrieval, configurable providers, streaming responses and a customizable chat SDK.<br/><sub>`TypeScript` `Node.js` `MongoDB` `Pinecone` `Cohere`</sub> |
-| **[Auto Browse](https://github.com/siddreddy07/auto-browse)** &nbsp;<sub>[live](https://auto-browse-seven.vercel.app/)</sub><br/><sub>Visual browser automation</sub> | A collaborative canvas where browser workflows are composed from `open`, `act`, `extract`, `observe`, `agent` and `send-email` nodes. Background runs, token piping, per-node outputs, validation, shared editing and replayable sessions.<br/><sub>`Next.js` `Stagehand` `Trigger.dev` `Neon`</sub> |
-| **[dbSmash](https://github.com/siddreddy07/dbsmash-CLI-npm-package)** &nbsp;<sub>[npm](https://www.npmjs.com/package/dbsmash)</sub><br/><sub>Published CLI</sub> | Natural-language requirements in, database structure and generated code out. Started from one question: *why am I writing the same database boilerplate again?* Ships as a visual experience and an npm CLI.<br/><sub>`Node.js` `Gemini` `CLI`</sub> |
-| **[InboxValid MCP](https://github.com/siddreddy07/InboxValid-MCP-Server)**<br/><sub>MCP server</sub> | Email verification that agents can call. One structured `verify_email` tool with MX checks, disposable-domain detection, retry handling and normalized states. &nbsp;`agent → tool → verified result`<br/><sub>`TypeScript` `Node.js` `MCP`</sub> |
+`TypeScript` `Node.js` `MongoDB` `Pinecone` `Cohere`
+
+[Live](https://bsdk.siddharthreddy627.workers.dev/) · [Source](https://github.com/siddreddy07/bsdk)
 
 <details>
-<summary><b>More</b></summary>
+<summary>How it works</summary>
 
-<br/>
-
-| | |
-|:--|:--|
-| **Personal AI Agent** | Document ingestion, embeddings, retrieval, tools and streamed responses.<br/><sub>`Vercel AI SDK` `Qdrant` `BullMQ` `PostgreSQL` `SSE` `React Native`</sub> |
-| **Collaborative Code Editor** | Real-time Monaco editor with shared document state and user presence.<br/><sub>`Yjs` `y-monaco` `Socket.io`</sub> |
-| **MCP Twitter Server** | Tweet publishing exposed as a callable tool for AI agents.<br/><sub>`Node.js` `MCP` `X API`</sub> |
-| **Shraddha Media** | Production news CMS with RBAC, Redis-backed OTP authentication and automated SEO and sitemap generation. |
+```mermaid
+flowchart LR
+    A["Website and PDFs"] --> B["Ingest and parse"]
+    B --> C["Embeddings"]
+    C --> D[("Vector store")]
+    E["Chat SDK"] --> F["Retrieve"]
+    D --> F
+    F --> G["Configurable AI provider"]
+    G -->|"streamed response"| E
+```
 
 </details>
 
----
+<br>
 
-### Toolbox
+### [Auto Browse](https://github.com/siddreddy07/auto-browse)
 
-<sub>Not everything I've touched. Just what keeps showing up.</sub>
+*Build browser automations visually.* &nbsp;`SHIPPED`
 
-```text
-backend    Node.js · TypeScript · Express · Socket.io · BullMQ
-data       PostgreSQL · MongoDB · Redis · Drizzle · Qdrant
-ai         Vercel AI SDK · Gemini · Groq · Pinecone · Cohere · LangChain
-web        React · Next.js · Tailwind · shadcn/ui
-infra      Docker · AWS · Vercel · Trigger.dev
+A collaborative canvas where browser workflows are composed from `open`, `act`, `extract`, `observe`, `agent` and `send-email` nodes. Background executions, token piping, per-node outputs, validation, shared editing and replayable browser sessions.
+
+`Next.js` `Stagehand` `Trigger.dev` `Neon`
+
+[Live](https://auto-browse-seven.vercel.app/) · [Source](https://github.com/siddreddy07/auto-browse)
+
+<details>
+<summary>How it works</summary>
+
+```mermaid
+flowchart LR
+    open["open"] --> act["act"]
+    act --> extract["extract"]
+    act --> observe["observe"]
+    observe --> agent["agent"]
+    agent --> extract
+    extract -->|"token piping"| mail["send-email"]
 ```
 
----
+Workflows run in the background, each node keeps its own output, and every browser session can be replayed.
 
-### Experience
+</details>
 
-```text
-2025 Jan – May    TEN                MERN Stack Developer Intern
-2024 Aug – Oct    reaidy.io          Backend Developer Intern
+<br>
+
+### [dbSmash](https://github.com/siddreddy07/dbsmash-CLI-npm-package)
+
+*Describe it. Generate it. Use it.* &nbsp;`PUBLISHED ON NPM`
+
+It started with one question: why am I writing the same database boilerplate again? dbSmash turns natural-language requirements into database structures and generated code, through a visual experience or an npm CLI.
+
+`Node.js` `Gemini` `CLI`
+
+[npm](https://www.npmjs.com/package/dbsmash) · [Source](https://github.com/siddreddy07/dbsmash-CLI-npm-package)
+
+<details>
+<summary>How it works</summary>
+
+```mermaid
+flowchart LR
+    V["Visual experience"] --> R
+    C["npm CLI"] --> R
+    R["Natural-language requirements"] --> G["Gemini"]
+    G --> S["Database structure"]
+    S --> K["Generated code"]
 ```
 
-**TEN.** Worked across an HRMS backend and a React e-commerce app. Built employee APIs, role and access flows, attendance aggregation, reusable validation, cart, wishlist and filtering.
+</details>
 
-**reaidy.io.** Express and MongoDB. Built leaderboard aggregation, interview scheduling, authentication and rate limiting, and cut unnecessary database round trips.
+<br>
 
----
+### [InboxValid MCP](https://github.com/siddreddy07/InboxValid-MCP-Server)
+
+*Email verification, callable by agents.* &nbsp;`MCP SERVER`
+
+An MCP server that exposes one structured `verify_email` tool: MX checks, disposable-domain detection, retry handling and normalized verification states. A small tool built around a useful primitive: agent → tool → verified result.
+
+`TypeScript` `Node.js` `MCP`
+
+[Source](https://github.com/siddreddy07/InboxValid-MCP-Server)
+
+<details>
+<summary>How it works</summary>
+
+```mermaid
+sequenceDiagram
+    participant A as Agent
+    participant T as verify_email
+    A->>T: email address
+    T->>T: MX check and disposable-domain detection
+    T->>T: retry handling
+    T-->>A: normalized verification state
+```
+
+</details>
+
+<br>
+
+<details>
+<summary><b>Also built</b></summary>
+
+<br>
+
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **Personal AI Agent** | Document ingestion, embeddings, retrieval, tools and streamed responses. | `Vercel AI SDK` `Qdrant` `BullMQ` `PostgreSQL` `SSE` `React Native` |
+| **Collaborative Code Editor** | Real-time Monaco editor with shared document state and user awareness. | `Yjs` `y-monaco` `Socket.io` |
+| **MCP Twitter Server** | Tweet publishing exposed as a callable tool for AI agents. | `Node.js` `MCP` `X API` |
+| **Shraddha Media** | Production news CMS with RBAC, Redis-backed OTP authentication and automated SEO and sitemap generation. | |
+
+</details>
+
+<br>
+
+## What I build
+
+| I build | What that means | Where I've done it |
+|:--|:--|:--|
+| **Backend systems** | Auth, queues, live updates, aggregation, rate limiting | Shraddha Media, TEN, reaidy.io |
+| **AI products** | Ingestion, embeddings, retrieval, streamed answers | BSDK, Personal AI Agent |
+| **Agents** | MCP servers and tool calling | InboxValid MCP, MCP Twitter Server |
+| **Automation** | Browser workflows and background jobs | Auto Browse |
+| **Developer tools** | CLIs and SDKs, published to npm | dbSmash, BSDK |
+
+<br>
+
+## Behind one request
+
+The API needs auth. The task takes too long, so it needs a queue. The UI needs live updates, so now there is SSE. The AI needs context, so suddenly there is an ingestion pipeline and a vector database. That is usually where it gets interesting for me.
+
+```mermaid
+sequenceDiagram
+    autonumber
+    actor U as Interface
+    participant API as API and auth
+    participant Q as Queue
+    participant W as Worker
+    participant V as Vector DB
+    participant M as Model
+    U->>API: request
+    API->>Q: enqueue the long task
+    Q->>W: job
+    W->>V: embed and retrieve context
+    V-->>W: relevant chunks
+    W->>M: prompt with context
+    M-->>U: streamed tokens over SSE
+```
+
+<br>
+
+## Path
+
+```mermaid
+timeline
+    title A short one, so far
+    2024 Aug to Oct : reaidy.io : Backend Developer Intern
+    2025 Jan to May : TEN : MERN Stack Developer Intern
+    2025 : Andhra University : B.Tech in Computer Science
+```
+
+| When | Where | What I did |
+|:--|:--|:--|
+| Jan to May 2025 | **TEN**, MERN Stack Developer Intern | HRMS backend and a React e-commerce app. Employee APIs, role and access flows, attendance aggregation, reusable validation, cart, wishlist and filtering. |
+| Aug to Oct 2024 | **reaidy.io**, Backend Developer Intern | Express and MongoDB. Leaderboard aggregation, interview scheduling, authentication, rate limiting and fewer unnecessary database round trips. |
+
+<br>
+
+## Stack
+
+Not everything I've touched. Just what keeps showing up.
+
+| Layer | Tools |
+|:--|:--|
+| **Backend** | `Node.js` `TypeScript` `Express` `Socket.io` `BullMQ` |
+| **Data** | `PostgreSQL` `MongoDB` `Redis` `Drizzle` `Qdrant` |
+| **AI and agents** | `Vercel AI SDK` `Gemini` `Groq` `Pinecone` `Cohere` `LangChain` |
+| **Web** | `React` `Next.js` `Tailwind` `shadcn/ui` |
+| **Infra** | `Docker` `AWS` `Vercel` `Trigger.dev` |
+
+<br>
+
+## Say hello
+
+> [!TIP]
+> If there is an interesting technical problem hiding under a simple interface, I would like to hear about it.
+
+[Portfolio](https://siddharth-portfolio-delta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/n-siddharth-reddy/) · [npm](https://www.npmjs.com/package/dbsmash) · [siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
 
 <div align="center">
 
-<br/>
-
-<sub>build something &nbsp;→&nbsp; learn something &nbsp;→&nbsp; build the next thing</sub>
-
-<br/><br/>
-
-I care most about products with an interesting technical problem hiding under a simple interface.
-
-<br/>
-
-[siddharthreddy627@gmail.com](mailto:siddharthreddy627@gmail.com)
-
-<br/>
+<sub>build something → learn something → build the next thing</sub>
 
 </div>
