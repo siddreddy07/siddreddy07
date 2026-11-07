@@ -243,15 +243,6 @@ Turns plain-English application ideas into database schemas through an iterative
 
 <div align="center">
 
-<a href="https://github.com/siddreddy07">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=siddreddy07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=020617&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
-</a>
-<a href="https://github.com/siddreddy07">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddreddy07&layout=donut&langs_count=8&hide_border=true&bg_color=020617&title_color=A78BFA&text_color=C9D1D9" />
-</a>
-
-<br/><br/>
-
 <img width="85%" src="https://streak-stats.demolab.com?user=siddreddy07&theme=transparent&hide_border=true&background=020617&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" />
 
 <br/><br/>
